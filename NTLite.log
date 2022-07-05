@@ -1,0 +1,2549 @@
+﻿5-7-2022 13:07:01	Load tool settings
+5-7-2022 13:07:02	NTLite v2.3.6.8804 x64
+5-7-2022 13:07:02	CPU threads 16
+5-7-2022 13:07:03	Gather host hardware
+5-7-2022 13:07:03	 - GH
+5-7-2022 13:07:03	 - Gather image list
+5-7-2022 13:07:03	- Not saving tool settings changes when it's not a first instance
+5-7-2022 13:07:03	Load image list
+5-7-2022 13:07:03	Host: Windows 10 Pro (21H2) x64 - 10.0.19044.1706 (nl-NL)
+5-7-2022 13:07:12	Unloading image, discarding changes - D:\win\Windows\Sources\install.wim - Windows 10 Pro
+5-7-2022 13:07:12	- UnReg (di:1)
+5-7-2022 13:08:46	WIM error_15: 1235
+5-7-2022 13:08:47	- UnReg (di:0)
+5-7-2022 13:11:05	Deleting temporary files: D:\kut temp\NLTmpMnt01
+5-7-2022 13:11:05	Deleting temporary files: D:\kut temp\NLTmpMnt01_wt
+5-7-2022 13:11:05	Cleaning mount directory
+5-7-2022 13:11:05	# 
+5-7-2022 13:11:05	# 
+5-7-2022 13:11:05	# 
+5-7-2022 13:11:05	- UnReg (di:0)
+5-7-2022 13:11:05	Cleaning
+5-7-2022 13:11:05	Waiting for other operations to finish
+5-7-2022 13:11:05	Completed - Windows 10 Professional (21H2) x64 - 10.0.19044.1288 - Image unloaded without saving any changes - D:\win\Windows\Sources\install.wim 'Windows 10 Pro'
+5-7-2022 13:11:09	 - Gather image list
+5-7-2022 13:11:09	Save settings
+5-7-2022 13:11:09	Load image list
+5-7-2022 13:11:17	Remove item from the list: D:\win\Windows
+5-7-2022 13:11:17	 - Forget folder D:\win\Windows
+5-7-2022 13:11:17	Cleaning mount directory
+5-7-2022 13:11:17	Cleaning mount directory
+5-7-2022 13:11:17	Completed - Cleaning mount directory
+5-7-2022 13:11:17	Cleaning mount directory
+5-7-2022 13:11:17	Cleaning mount directory
+5-7-2022 13:11:17	Completed - Cleaning mount directory
+5-7-2022 13:11:17	 - Gather image list
+5-7-2022 13:11:17	Save settings
+5-7-2022 13:11:17	Load image list
+5-7-2022 13:36:47	 - Gather image list
+5-7-2022 13:36:47	Save settings
+5-7-2022 13:36:47	Load image list
+5-7-2022 13:36:52	Delete: 7. Windows 10 Pro N ...
+5-7-2022 13:37:36	 - Gather image list
+5-7-2022 13:37:36	Save settings
+5-7-2022 13:37:36	Load image list
+5-7-2022 13:39:37	Delete: 1. Windows 10 Home ...
+5-7-2022 13:40:10	 - Gather image list
+5-7-2022 13:40:10	Save settings
+5-7-2022 13:40:10	Load image list
+5-7-2022 13:40:15	Delete: 1. Windows 10 Home N ...
+5-7-2022 13:40:52	 - Gather image list
+5-7-2022 13:40:52	Save settings
+5-7-2022 13:40:52	Load image list
+5-7-2022 13:41:00	Delete: 1. Windows 10 Home Single Language ...
+5-7-2022 13:41:30	 - Gather image list
+5-7-2022 13:41:30	Save settings
+5-7-2022 13:41:30	Load image list
+5-7-2022 13:41:52	Delete: 1. Windows 10 Education ...
+5-7-2022 13:42:50	 - Gather image list
+5-7-2022 13:42:50	Save settings
+5-7-2022 13:42:50	Load image list
+5-7-2022 13:42:59	Delete: 1. Windows 10 Education N ...
+5-7-2022 13:43:24	 - Gather image list
+5-7-2022 13:43:24	Save settings
+5-7-2022 13:43:24	Load image list
+5-7-2022 13:43:46	Exporting D:\win\Windows\Sources\install.esd:1 -> D:\win\Windows\Sources\install.wim
+5-7-2022 13:43:46	 - WG Export
+5-7-2022 13:43:46	GWH
+5-7-2022 13:43:46	WIM error_23: 11
+5-7-2022 13:43:53	Image compression: 2
+5-7-2022 13:43:53	GWH
+5-7-2022 13:48:13	Deleting temporary files: D:\kut temp\NLTmpWEDstd14cf1df1
+5-7-2022 13:48:13	Deleting temporary files: D:\kut temp\NLTmpWESrcd14cf1df1
+5-7-2022 13:48:13	# 
+5-7-2022 13:48:13	Remove item from the list: 1. Windows 10 Pro
+5-7-2022 13:48:13	 - Forget edition 1. Windows 10 Pro
+5-7-2022 13:48:13	Cleaning mount directory
+5-7-2022 13:48:13	Cleaning mount directory
+5-7-2022 13:48:13	Completed - Cleaning mount directory
+5-7-2022 13:48:13	- UnReg (di:0)
+5-7-2022 13:48:13	Cleaning
+5-7-2022 13:48:13	Waiting for other operations to finish
+5-7-2022 13:48:13	Completed
+5-7-2022 13:48:17	 - Gather image list
+5-7-2022 13:48:17	Save settings
+5-7-2022 13:48:17	Load image list
+5-7-2022 13:48:17	Image load: Windows 10 Pro - D:\win\Windows\Sources\install.wim
+5-7-2022 13:48:17	Mounting image: D:\win\Windows\Sources\install.wim - Windows 10 Pro
+5-7-2022 13:48:17		Mount dir: D:\kut temp\NLTmpMnt01
+5-7-2022 13:48:17	GWH
+5-7-2022 13:52:31	# 
+5-7-2022 13:52:35	Windows 10 Professional (21H2) x64 - 10.0.19044.1288
+5-7-2022 13:52:35	Reading data: Windows 10 Professional (21H2) x64 - 10.0.19044.1288 (en-US)
+5-7-2022 13:52:35	- Gather hardware lists
+5-7-2022 13:52:35	- Gather packages
+5-7-2022 13:52:37	 - Package sorting
+5-7-2022 13:52:37	 - Connecting PBC
+5-7-2022 13:52:37	- Filtering packages
+5-7-2022 13:52:39	- Gather existing drivers
+5-7-2022 13:52:42	- Gather services
+5-7-2022 13:52:45	- Gather driver services
+5-7-2022 13:52:46	- Gather scheduled tasks
+5-7-2022 13:52:49	- Gather components
+5-7-2022 13:52:50	- Gather languages
+5-7-2022 13:52:50	- Gather keyboards
+5-7-2022 13:52:51	- Gather fonts
+5-7-2022 13:52:52	- Connect drivers
+5-7-2022 13:52:52	- Gather tweaks
+5-7-2022 13:52:53	- Gather unattended data
+5-7-2022 13:52:53		- Timezones
+5-7-2022 13:52:54		- Keyboards
+5-7-2022 13:52:54		- Locales
+5-7-2022 13:52:54	- Gather unattended options
+5-7-2022 13:52:54	# 
+5-7-2022 13:52:54	Load preset: Auto-saved 071fc4be
+5-7-2022 13:52:54		-Loading components
+5-7-2022 13:52:54	- Apply compatibility options
+5-7-2022 13:52:54		- Reset
+5-7-2022 13:52:54		-Loading features
+5-7-2022 13:52:54		-Loading drivers
+5-7-2022 13:52:54		-Loading unattended
+5-7-2022 13:52:54	- Gather unattended options
+5-7-2022 13:52:54		-Loading tweaks
+5-7-2022 13:52:54		-Loading execution list
+5-7-2022 13:52:54	- Gather existing Post-Setup Machine
+5-7-2022 13:52:54	- Gather existing Post-Setup User
+5-7-2022 13:52:54		-Loading registry list
+5-7-2022 13:52:54		-Loading apply options
+5-7-2022 13:52:54	 - Gather image list
+5-7-2022 13:52:54	Save settings
+5-7-2022 13:52:54	Load image list
+5-7-2022 13:52:54	Windows 10 Professional (21H2) x64 - 10.0.19044.1288
+5-7-2022 13:52:55		-Loading updates
+5-7-2022 13:52:55	# 
+5-7-2022 13:52:55	# 
+5-7-2022 13:52:55	- UnReg (di:0)
+5-7-2022 13:52:57	Cleaning
+5-7-2022 13:52:57	Waiting for other operations to finish
+5-7-2022 13:52:57	Completed - Image load
+5-7-2022 13:52:57	 - Gather image list
+5-7-2022 13:52:57	Save settings
+5-7-2022 13:52:57	Load image list
+5-7-2022 13:52:59	Windows 10 Professional (21H2) x64 - 10.0.19044.1288
+5-7-2022 13:53:07	Drivers page fill
+5-7-2022 13:53:07	- Hardware list refresh
+5-7-2022 13:53:07	- Listing added drivers
+5-7-2022 13:53:07	- Listing hardware devices
+5-7-2022 13:53:08	- Listing hardware devices
+5-7-2022 13:53:27	- Listing components
+5-7-2022 13:53:57	- Apply compatibility options
+5-7-2022 13:53:57		- Reset
+5-7-2022 14:07:44	- Apply compatibility options
+5-7-2022 14:07:44		- Reset
+5-7-2022 14:26:53	- Listing post-setup executions
+5-7-2022 14:26:54	- Listing hardware devices
+5-7-2022 14:27:14	- Save preset: project zero privacy and clean
+5-7-2022 14:27:14	Unattended: root
+5-7-2022 14:27:14	Unattended: pass 'Generalize'
+5-7-2022 14:27:14	Unattended: pass 'OOBE (Final install options)'
+5-7-2022 14:27:14	Unattended: pass 'Specialize'
+5-7-2022 14:27:14	Unattended: pass 'WindowsPE (Setup options)'
+5-7-2022 14:27:32	Load preset: project zero privacy and clean
+5-7-2022 14:27:32		-Loading components
+5-7-2022 14:27:32	- Apply compatibility options
+5-7-2022 14:27:32		- Reset
+5-7-2022 14:27:32	- Listing components
+5-7-2022 14:27:32		-Loading features
+5-7-2022 14:27:33		-Loading drivers
+5-7-2022 14:27:33	Drivers page fill
+5-7-2022 14:27:33	- Hardware list refresh
+5-7-2022 14:27:33	- Listing added drivers
+5-7-2022 14:27:33	- Listing hardware devices
+5-7-2022 14:27:33		-Loading unattended
+5-7-2022 14:27:33	- Gather unattended options
+5-7-2022 14:27:33		-Loading tweaks
+5-7-2022 14:27:33		-Loading apply options
+5-7-2022 14:27:33	 - Gather image list
+5-7-2022 14:27:33	Save settings
+5-7-2022 14:27:33	Load image list
+5-7-2022 14:27:33	Windows 10 Professional (21H2) x64 - 10.0.19044.1288
+5-7-2022 14:27:33		-Loading execution list
+5-7-2022 14:27:33	- Gather existing Post-Setup Machine
+5-7-2022 14:27:33	- Gather existing Post-Setup User
+5-7-2022 14:27:33		-Loading registry list
+5-7-2022 14:27:33		-Loading updates
+5-7-2022 14:27:33	# 
+5-7-2022 14:27:33	# 
+5-7-2022 14:27:33	- UnReg (di:0)
+5-7-2022 14:27:33	Completed - Preset load 'project zero privacy and clean'
+5-7-2022 14:27:45	- Listing hardware devices
+5-7-2022 14:27:47	- Listing hardware devices
+5-7-2022 14:27:49	- Listing hardware devices
+5-7-2022 14:28:19	- Listing hardware devices
+5-7-2022 14:28:23	Start applying all of the pending changes.
+5-7-2022 14:28:23	# 
+5-7-2022 14:28:23	Save settings
+5-7-2022 14:28:23	- Save preset: Auto-saved 071fc4be
+5-7-2022 14:28:23	Unattended: root
+5-7-2022 14:28:23	Unattended: pass 'Generalize'
+5-7-2022 14:28:23	Unattended: pass 'OOBE (Final install options)'
+5-7-2022 14:28:23	Unattended: pass 'Specialize'
+5-7-2022 14:28:23	Unattended: pass 'WindowsPE (Setup options)'
+5-7-2022 14:28:23	Unattended: root
+5-7-2022 14:28:23	Unattended: pass 'Generalize'
+5-7-2022 14:28:23	Unattended: pass 'OOBE (Final install options)'
+5-7-2022 14:28:23	Unattended: pass 'Specialize'
+5-7-2022 14:28:23	Unattended: pass 'WindowsPE (Setup options)'
+5-7-2022 14:28:23	 - Gather image list
+5-7-2022 14:28:23	Save settings
+5-7-2022 14:28:24	Load image list
+5-7-2022 14:28:24	Windows 10 Professional (21H2) x64 - 10.0.19044.1288
+5-7-2022 14:28:24	# 
+5-7-2022 14:28:24	Windows 10 Professional (21H2) x64 - 10.0.19044.1288
+5-7-2022 14:28:24	# 
+5-7-2022 14:28:24	# 
+5-7-2022 14:28:24	Preparing feature configuration
+5-7-2022 14:28:24	Enabling: Hyper-V
+5-7-2022 14:28:24	Preparing DISM
+5-7-2022 14:28:24	- DI
+5-7-2022 14:28:24	DM1
+5-7-2022 14:28:24	- UnReg (di:1)
+5-7-2022 14:28:50	Enabling: Windows Subsystem for Linux
+5-7-2022 14:28:50	 - DCL
+5-7-2022 14:28:51	- DS
+5-7-2022 14:28:51	Deleting temporary files: D:\kut temp\NLTmpScratch\NLTmpS01
+5-7-2022 14:28:51	Preparing DISM
+5-7-2022 14:28:51	- DI
+5-7-2022 14:28:51	DM1
+5-7-2022 14:28:56	Enabling: Hyper-V Management Tools
+5-7-2022 14:28:56	 - DCL
+5-7-2022 14:28:57	- DS
+5-7-2022 14:28:57	Deleting temporary files: D:\kut temp\NLTmpScratch\NLTmpS01
+5-7-2022 14:28:57	Preparing DISM
+5-7-2022 14:28:57	- DI
+5-7-2022 14:28:57	DM1
+5-7-2022 14:29:01	Enabling: Hyper-V Platform
+5-7-2022 14:29:01	 - DCL
+5-7-2022 14:29:02	- DS
+5-7-2022 14:29:02	Deleting temporary files: D:\kut temp\NLTmpScratch\NLTmpS01
+5-7-2022 14:29:02	Preparing DISM
+5-7-2022 14:29:02	- DI
+5-7-2022 14:29:02	DM1
+5-7-2022 14:29:06	Enabling: Guarded Host
+5-7-2022 14:29:06	 - DCL
+5-7-2022 14:29:07	- DS
+5-7-2022 14:29:07	Deleting temporary files: D:\kut temp\NLTmpScratch\NLTmpS01
+5-7-2022 14:29:07	Preparing DISM
+5-7-2022 14:29:07	- DI
+5-7-2022 14:29:07	DM1
+5-7-2022 14:29:13	Disabling: .NET Framework 4.8 Advanced Services
+5-7-2022 14:29:13	 - DCL
+5-7-2022 14:29:13	- DS
+5-7-2022 14:29:13	Deleting temporary files: D:\kut temp\NLTmpScratch\NLTmpS01
+5-7-2022 14:29:13	Preparing DISM
+5-7-2022 14:29:13	- DI
+5-7-2022 14:29:13	DM1
+5-7-2022 14:29:17	Disabling: DirectX Configuration Database
+5-7-2022 14:29:24	Disabling: English (US) handwriting
+5-7-2022 14:29:30	Disabling: English (US) optical character recognition
+5-7-2022 14:29:38	Disabling: English (US) speech recognition
+5-7-2022 14:29:45	Disabling: English (US) text-to-speech
+5-7-2022 14:29:52	Disabling: English (US) typing
+5-7-2022 14:30:00	Disabling: Exchange ActiveSync and Internet Mail Sync engine
+5-7-2022 14:30:12	Disabling: Internet Explorer 11
+5-7-2022 14:30:20	Disabling: Math Recognizer
+5-7-2022 14:30:26	Disabling: Media Features
+5-7-2022 14:30:33	Disabling: Microsoft Paint
+5-7-2022 14:30:40	Disabling: Microsoft Quick Assist
+5-7-2022 14:30:48	Disabling: Notepad
+5-7-2022 14:30:55	Disabling: OpenSSH Client
+5-7-2022 14:31:02	Disabling: Print Management Console
+5-7-2022 14:31:08	Disabling: Remote Differential Compression
+5-7-2022 14:31:10	Disabling: SMB Direct
+5-7-2022 14:31:12	Disabling: TCP Port Sharing
+5-7-2022 14:31:14	Disabling: Windows Fax and Scan
+5-7-2022 14:31:21	Disabling: Windows Feature Experience Pack
+5-7-2022 14:31:28	Disabling: Windows Hello Face Legacy Resources
+5-7-2022 14:31:34	Disabling: Windows Hello Face
+5-7-2022 14:31:42	Disabling: Windows Media Player
+5-7-2022 14:31:49	Disabling: Windows PowerShell Integrated Scripting Environment
+5-7-2022 14:31:57	Disabling: WordPad
+5-7-2022 14:32:05	 - DCL
+5-7-2022 14:32:05	- DS
+5-7-2022 14:32:05	Deleting temporary files: D:\kut temp\NLTmpScratch\NLTmpS01
+5-7-2022 14:32:05	# 
+5-7-2022 14:32:05	Cleaning - TD
+5-7-2022 14:32:05	- UnReg (di:0)
+5-7-2022 14:32:06	Windows 10 Professional (21H2) x64 - 10.0.19044.1288
+5-7-2022 14:32:06	Reading data: Windows 10 Professional (21H2) x64 - 10.0.19044.1288 (en-US)
+5-7-2022 14:32:06	- Gather hardware lists
+5-7-2022 14:32:06	- Gather packages
+5-7-2022 14:32:07	 - Package sorting
+5-7-2022 14:32:07	 - Connecting PBC
+5-7-2022 14:32:07	- Filtering packages
+5-7-2022 14:32:09	- Gather existing drivers
+5-7-2022 14:32:12	- Gather services
+5-7-2022 14:32:15	- Gather driver services
+5-7-2022 14:32:16	- Gather scheduled tasks
+5-7-2022 14:32:17	- Gather components
+5-7-2022 14:32:17	- Gather languages
+5-7-2022 14:32:17	- Gather keyboards
+5-7-2022 14:32:17	- Gather fonts
+5-7-2022 14:32:18	- Connect drivers
+5-7-2022 14:32:18	- Gather tweaks
+5-7-2022 14:32:18	- Gather unattended data
+5-7-2022 14:32:18		- Timezones
+5-7-2022 14:32:18		- Keyboards
+5-7-2022 14:32:18		- Locales
+5-7-2022 14:32:18	- Gather unattended options
+5-7-2022 14:32:18	# 
+5-7-2022 14:32:18		-Loading components
+5-7-2022 14:32:18	- Apply compatibility options
+5-7-2022 14:32:18		- Reset
+5-7-2022 14:32:18		-Loading features
+5-7-2022 14:32:18		-Loading drivers
+5-7-2022 14:32:19		-Loading unattended
+5-7-2022 14:32:19	- Gather unattended options
+5-7-2022 14:32:19		-Loading tweaks
+5-7-2022 14:32:19		-Loading execution list
+5-7-2022 14:32:19	- Gather existing Post-Setup Machine
+5-7-2022 14:32:19	- Gather existing Post-Setup User
+5-7-2022 14:32:19		-Loading registry list
+5-7-2022 14:32:19		-Loading updates
+5-7-2022 14:32:19	# 
+5-7-2022 14:32:19	# 
+5-7-2022 14:32:19	RCT
+5-7-2022 14:32:19	Preparing data
+5-7-2022 14:32:19	 - Pre-loading selected data
+5-7-2022 14:32:19	- section 1
+5-7-2022 14:32:19	- section 2
+5-7-2022 14:32:20	- section 3
+5-7-2022 14:32:21	- section 4
+5-7-2022 14:32:21	- section 4.1
+5-7-2022 14:32:21	- section 5
+5-7-2022 14:32:21	- section 6
+5-7-2022 14:32:21	- section 7
+5-7-2022 14:32:22	- section 8
+5-7-2022 14:32:22	- section 9
+5-7-2022 14:32:22	Preparing data
+5-7-2022 14:32:22	 - RDS
+5-7-2022 14:32:22	Stack %%SystemRoot%%\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.1220_none_7e21bc567c7ed16b
+5-7-2022 14:32:22	RDS clean 0
+5-7-2022 14:32:22	 - Collect
+5-7-2022 14:32:41	 - PMR
+5-7-2022 14:32:41	RAEC
+5-7-2022 14:32:41	Functionality guard
+5-7-2022 14:32:41	- static
+5-7-2022 14:32:41	- kept components
+5-7-2022 14:32:48	Disable cw
+5-7-2022 14:32:50	Removing components
+5-7-2022 14:32:50	- UnReg (di:1)
+5-7-2022 14:32:52	Removing: Microsoft  |  c_barcodescanner.inf
+5-7-2022 14:32:53	Done - 0.001 MB
+5-7-2022 14:32:53	Removing: Microsoft  |  c_cashdrawer.inf
+5-7-2022 14:32:53	Done - 0.001 MB
+5-7-2022 14:32:53	Removing: Microsoft  |  c_fdc.inf
+5-7-2022 14:32:54	Done - 0.003 MB
+5-7-2022 14:32:54	Removing: Microsoft  |  c_floppydisk.inf
+5-7-2022 14:32:54	Done - 0.004 MB
+5-7-2022 14:32:54	Removing: Microsoft  |  c_image.inf
+5-7-2022 14:32:54	Done - 0.01 MB
+5-7-2022 14:32:54	Removing: Microsoft  |  c_infrared.inf
+5-7-2022 14:32:54	Done - 0.005 MB
+5-7-2022 14:32:54	Removing: Microsoft  |  c_linedisplay.inf
+5-7-2022 14:32:54	Done - 0.001 MB
+5-7-2022 14:32:54	Removing: Microsoft  |  c_magneticstripereader.inf
+5-7-2022 14:32:54	Done - 0.001 MB
+5-7-2022 14:32:54	Removing: Microsoft  |  c_printer.inf
+5-7-2022 14:32:54	Done - 0.003 MB
+5-7-2022 14:32:54	Removing: Microsoft  |  c_receiptprinter.inf
+5-7-2022 14:32:54	Done - 0.001 MB
+5-7-2022 14:32:54	Removing: Microsoft  |  c_sensor.inf
+5-7-2022 14:32:54	Done - 0.01 MB
+5-7-2022 14:32:54	Removing: Microsoft  |  c_smartcard.inf
+5-7-2022 14:32:54	Done - 0.002 MB
+5-7-2022 14:32:54	Removing: Microsoft  |  c_smartcardfilter.inf
+5-7-2022 14:32:54	Done - 0.002 MB
+5-7-2022 14:32:54	Removing: Microsoft  |  c_smartcardreader.inf
+5-7-2022 14:32:54	Done - 0.003 MB
+5-7-2022 14:32:54	Removing: Microsoft  |  cht4vx64.inf
+5-7-2022 14:32:54	Done - 3.7 MB
+5-7-2022 14:32:54	Removing: Microsoft  |  fdc.inf
+5-7-2022 14:32:54	Done - 0.07 MB
+5-7-2022 14:32:54	Removing: Microsoft  |  flpydisk.inf
+5-7-2022 14:32:54	Done - 0.1 MB
+5-7-2022 14:32:54	Removing: Microsoft  |  fusionv2.inf
+5-7-2022 14:32:54	Done - 0.07 MB
+5-7-2022 14:32:54	Removing: Microsoft  |  hidir.inf
+5-7-2022 14:32:54	Done - 0.2 MB
+5-7-2022 14:32:54	Removing: Microsoft  |  hidirkbd.inf
+5-7-2022 14:32:54	Done - 0.01 MB
+5-7-2022 14:32:54	Removing: Microsoft  |  hidscanner.inf
+5-7-2022 14:32:54	Done - 0.08 MB
+5-7-2022 14:32:54	Removing: Microsoft  |  idtsec.inf
+5-7-2022 14:32:54	Done - 0.1 MB
+5-7-2022 14:32:54	Removing: Microsoft  |  image.inf
+5-7-2022 14:32:54	Done - 0.09 MB
+5-7-2022 14:32:54	Removing: Microsoft  |  iscsi.inf
+5-7-2022 14:32:54	Done - 0.6 MB
+5-7-2022 14:32:54	Removing: Microsoft  |  mgtdyn.inf
+5-7-2022 14:32:54	Done - 0.1 MB
+5-7-2022 14:32:54	Removing: Microsoft  |  msclmd.inf
+5-7-2022 14:32:54	Done - 0.005 MB
+5-7-2022 14:32:54	Removing: Microsoft  |  msdv.inf
+5-7-2022 14:32:55	Done - 0.1 MB
+5-7-2022 14:32:55	Removing: Microsoft  |  ntprint.inf
+5-7-2022 14:32:55	Done - 19.3 ¦ 0.02 MB
+5-7-2022 14:32:55	Removing: Microsoft  |  ntprint4.inf
+5-7-2022 14:32:55	Done - 9.7 ¦ 0.01 MB
+5-7-2022 14:32:55	Removing: Microsoft  |  printqueue.inf
+5-7-2022 14:32:55	Done - 0.006 MB
+5-7-2022 14:32:55	Removing: Microsoft  |  prnge001.inf
+5-7-2022 14:32:55	Done - 0.3 ¦ 0.01 MB
+5-7-2022 14:32:55	Removing: Microsoft  |  prnms002.inf
+5-7-2022 14:32:55	Done - 7.7 ¦ 0.010 MB
+5-7-2022 14:32:55	Removing: Microsoft  |  prnms003.inf
+5-7-2022 14:32:55	Done - 6.2 ¦ 0.009 MB
+5-7-2022 14:32:55	Removing: Microsoft  |  prnms004.inf
+5-7-2022 14:32:55	Done - 0.02 ¦ 0.009 MB
+5-7-2022 14:32:55	Removing: Microsoft  |  prnms005.inf
+5-7-2022 14:32:55	Done - 0.03 ¦ 0.01 MB
+5-7-2022 14:32:55	Removing: Microsoft  |  prnms007.inf
+5-7-2022 14:32:55	Done - 0.02 ¦ 0.01 MB
+5-7-2022 14:32:55	Removing: Microsoft  |  prnms008.inf
+5-7-2022 14:32:55	Done - 0.02 ¦ 0.009 MB
+5-7-2022 14:32:55	Removing: Microsoft  |  prnms010.inf
+5-7-2022 14:32:55	Driver uninstall: prnms010.inf
+5-7-2022 14:32:55	Preparing DISM
+5-7-2022 14:32:55	- DI
+5-7-2022 14:32:55	DM1
+5-7-2022 14:32:55	- UnReg (di:1)
+5-7-2022 14:33:02	Done - 0.02 ¦ 0.009 MB
+5-7-2022 14:33:02	Removing: Microsoft  |  prnms011.inf
+5-7-2022 14:33:02	Driver uninstall: prnms011.inf
+5-7-2022 14:33:02	- UnReg (di:0)
+5-7-2022 14:33:03	Done - 0.02 ¦ 0.009 MB
+5-7-2022 14:33:03	Removing: Microsoft  |  prnms012.inf
+5-7-2022 14:33:03	Driver uninstall: prnms012.inf
+5-7-2022 14:33:03	- UnReg (di:0)
+5-7-2022 14:33:04	Done - 0.02 ¦ 0.009 MB
+5-7-2022 14:33:04	Removing: Microsoft  |  prnms014.inf
+5-7-2022 14:33:04	Driver uninstall: prnms014.inf
+5-7-2022 14:33:04	- UnReg (di:0)
+5-7-2022 14:33:06	Done - 0.02 ¦ 0.009 MB
+5-7-2022 14:33:06	Removing: Microsoft  |  rdvgwddmdx11.inf
+5-7-2022 14:33:06	Done - 1.4 MB
+5-7-2022 14:33:06	Removing: Microsoft  |  remoteposdrv.inf
+5-7-2022 14:33:06	Done - 0.1 MB
+5-7-2022 14:33:06	Removing: Microsoft  |  scrawpdo.inf
+5-7-2022 14:33:06	Done - 0.003 MB
+5-7-2022 14:33:06	Removing: Microsoft  |  scunknown.inf
+5-7-2022 14:33:06	Done - 0.003 MB
+5-7-2022 14:33:06	Removing: Microsoft  |  sensorsalsdriver.inf
+5-7-2022 14:33:06	Done - 0.1 MB
+5-7-2022 14:33:06	Removing: Microsoft  |  SensorsHidClassDriver.inf
+5-7-2022 14:33:06	Done - 0.2 MB
+5-7-2022 14:33:06	Removing: Microsoft  |  sensorsservicedriver.inf
+5-7-2022 14:33:06	Done - 0.1 MB
+5-7-2022 14:33:06	Removing: Microsoft  |  sti.inf
+5-7-2022 14:33:06	Done - 0.2 MB
+5-7-2022 14:33:06	Removing: Microsoft  |  termkbd.inf
+5-7-2022 14:33:06	Done - 0.09 MB
+5-7-2022 14:33:06	Removing: Microsoft  |  termmou.inf
+5-7-2022 14:33:06	Done - 0.05 MB
+5-7-2022 14:33:06	Removing: Microsoft  |  tpmvsc.inf
+5-7-2022 14:33:06	Done
+5-7-2022 14:33:06	Removing: Microsoft  |  ts_generic.inf
+5-7-2022 14:33:06	Done - 0.009 MB
+5-7-2022 14:33:06	Removing: Microsoft  |  tsgenericusbdriver.inf
+5-7-2022 14:33:06	Done - 0.2 MB
+5-7-2022 14:33:06	Removing: Microsoft  |  tsprint.inf
+5-7-2022 14:33:06	Done - 0.2 MB
+5-7-2022 14:33:06	Removing: Microsoft  |  tsusbhubfilter.inf
+5-7-2022 14:33:06	Done - 0.004 MB
+5-7-2022 14:33:06	Removing: Microsoft  |  UsbccidDriver.inf
+5-7-2022 14:33:06	Done - 0.1 MB
+5-7-2022 14:33:06	Removing: Microsoft  |  usbcir.inf
+5-7-2022 14:33:06	Done - 0.4 MB
+5-7-2022 14:33:06	Removing: Microsoft  |  usbprint.inf
+5-7-2022 14:33:06	Done - 0.08 MB
+5-7-2022 14:33:06	Removing: Microsoft  |  wsdscdrv.inf
+5-7-2022 14:33:07	Done - 0.3 MB
+5-7-2022 14:33:07	Removing: Microsoft  |  wsynth3dvsc.inf
+5-7-2022 14:33:07	Done - 0.04 MB
+5-7-2022 14:33:07	Removing: Microsoft  |  wudfusbcciddriver.inf
+5-7-2022 14:33:07	Done - 0.1 MB
+5-7-2022 14:33:07	Removing: 3D-viewer
+5-7-2022 14:33:07	- UnReg (di:0)
+5-7-2022 14:33:10	Done
+5-7-2022 14:33:10	Removing: App Installer
+5-7-2022 14:33:10	- UnReg (di:0)
+5-7-2022 14:33:13	Done
+5-7-2022 14:33:13	Removing: Assigned Access Lock app
+5-7-2022 14:33:13	Done - 0.5 MB
+5-7-2022 14:33:13	Removing: Capture Picker
+5-7-2022 14:33:13	Done - 1.0 MB
+5-7-2022 14:33:13	Removing: Content Delivery Manager
+5-7-2022 14:33:13	Done - 9.0 MB
+5-7-2022 14:33:13	Removing: Cortana
+5-7-2022 14:33:15	Done - 0.2 ¦ 39.0 MB
+5-7-2022 14:33:15	Removing: Email and accounts
+5-7-2022 14:33:15	Done - 4.6 MB
+5-7-2022 14:33:15	Removing: Eye Control
+5-7-2022 14:33:15	Done - 2.8 MB
+5-7-2022 14:33:15	Removing: Feedback Hub
+5-7-2022 14:33:15	- UnReg (di:0)
+5-7-2022 14:33:19	Done
+5-7-2022 14:33:19	Removing: Get Help
+5-7-2022 14:33:19	- UnReg (di:0)
+5-7-2022 14:33:22	Done
+5-7-2022 14:33:22	Removing: Groove Music
+5-7-2022 14:33:22	- UnReg (di:0)
+5-7-2022 14:33:24	Done
+5-7-2022 14:33:24	Removing: Microsoft Advertising SDK for XAML
+5-7-2022 14:33:25	Done - 5.6 MB
+5-7-2022 14:33:25	Removing: Microsoft Edge (Legacy)
+5-7-2022 14:33:27	Done - 21.8 ¦ 0.002 MB
+5-7-2022 14:33:27	Removing: Microsoft Edge DevTools Client
+5-7-2022 14:33:27	Done
+5-7-2022 14:33:27	Removing: Microsoft Engagement Framework
+5-7-2022 14:33:27	- UnReg (di:0)
+5-7-2022 14:33:28	Done - 1.5 MB
+5-7-2022 14:33:28	Removing: Microsoft family features
+5-7-2022 14:33:29	Done - 10.7 ¦ 0.001 MB
+5-7-2022 14:33:29	Removing: Microsoft People
+5-7-2022 14:33:29	- UnReg (di:0)
+5-7-2022 14:33:33	Done
+5-7-2022 14:33:33	Removing: Microsoft Photos
+5-7-2022 14:33:33	- UnReg (di:0)
+5-7-2022 14:33:36	Done - 2.1 ¦ 0.000809 MB
+5-7-2022 14:33:36	Removing: Microsoft Solitaire Collection
+5-7-2022 14:33:36	- UnReg (di:0)
+5-7-2022 14:33:39	Done
+5-7-2022 14:33:39	Removing: Microsoft Sticky Notes
+5-7-2022 14:33:39	- UnReg (di:0)
+5-7-2022 14:33:43	Done - 5.1 MB
+5-7-2022 14:33:43	Removing: Mixed Reality Portal
+5-7-2022 14:33:43	- UnReg (di:0)
+5-7-2022 14:33:45	Done
+5-7-2022 14:33:45	Removing: Movies & TV
+5-7-2022 14:33:45	- UnReg (di:0)
+5-7-2022 14:33:49	Done
+5-7-2022 14:33:49	Removing: MSN Weather
+5-7-2022 14:33:49	- UnReg (di:0)
+5-7-2022 14:33:51	Done
+5-7-2022 14:33:51	Removing: Narrator
+5-7-2022 14:33:52	Done - 1.0 MB
+5-7-2022 14:33:52	Removing: Office
+5-7-2022 14:33:52	- UnReg (di:0)
+5-7-2022 14:33:55	Done
+5-7-2022 14:33:55	Removing: OneNote
+5-7-2022 14:33:55	- UnReg (di:0)
+5-7-2022 14:33:58	Done
+5-7-2022 14:33:58	Removing: Paint 3D
+5-7-2022 14:33:58	- UnReg (di:0)
+5-7-2022 14:34:00	Done
+5-7-2022 14:34:00	Removing: PrintDialog
+5-7-2022 14:34:00	Done - 2.3 MB
+5-7-2022 14:34:00	Removing: Skype
+5-7-2022 14:34:00	- UnReg (di:0)
+5-7-2022 14:34:03	Done
+5-7-2022 14:34:03	Removing: Snip & Sketch
+5-7-2022 14:34:03	- UnReg (di:0)
+5-7-2022 14:34:06	Done
+5-7-2022 14:34:06	Removing: Store Experience Host
+5-7-2022 14:34:06	- UnReg (di:0)
+5-7-2022 14:34:09	Done
+5-7-2022 14:34:09	Removing: Tips (Get Started)
+5-7-2022 14:34:09	- UnReg (di:0)
+5-7-2022 14:34:11	Done
+5-7-2022 14:34:11	Removing: Wallet Service
+5-7-2022 14:34:11	- UnReg (di:0)
+5-7-2022 14:34:13	Done - 1.5 MB
+5-7-2022 14:34:13	Removing: Web Media Extensions
+5-7-2022 14:34:13	- UnReg (di:0)
+5-7-2022 14:34:16	Done
+5-7-2022 14:34:16	Removing: Windows Alarms & Clock
+5-7-2022 14:34:16	- UnReg (di:0)
+5-7-2022 14:34:19	Done
+5-7-2022 14:34:19	Removing: Windows Barcode Preview
+5-7-2022 14:34:19	Done - 0.6 MB
+5-7-2022 14:34:19	Removing: Windows Calculator
+5-7-2022 14:34:19	- UnReg (di:0)
+5-7-2022 14:34:22	Done - 0.05 MB
+5-7-2022 14:34:22	Removing: Windows Camera
+5-7-2022 14:34:22	- UnReg (di:0)
+5-7-2022 14:34:24	Done
+5-7-2022 14:34:24	Removing: Windows Defender
+5-7-2022 14:34:27	Done - 158.7 ¦ 0.4 MB
+5-7-2022 14:34:27	Removing: Windows Hello Setup
+5-7-2022 14:34:27	Done - 2.3 MB
+5-7-2022 14:34:27	Removing: Windows Mail
+5-7-2022 14:34:27	- UnReg (di:0)
+5-7-2022 14:34:32	Done - 7.0 MB
+5-7-2022 14:34:32	Removing: Windows Maps
+5-7-2022 14:34:32	- UnReg (di:0)
+5-7-2022 14:34:36	Done
+5-7-2022 14:34:36	Removing: Windows Store
+5-7-2022 14:34:36	- UnReg (di:0)
+5-7-2022 14:34:40	Done - 6.0 MB
+5-7-2022 14:34:40	Removing: Windows Voice Recorder
+5-7-2022 14:34:40	- UnReg (di:0)
+5-7-2022 14:34:43	Done
+5-7-2022 14:34:43	Removing: Xbox Game Bar Plugin
+5-7-2022 14:34:43	- UnReg (di:0)
+5-7-2022 14:34:46	Done
+5-7-2022 14:34:46	Removing: Xbox Game Bar
+5-7-2022 14:34:46	- UnReg (di:0)
+5-7-2022 14:34:49	Done
+5-7-2022 14:34:49	Removing: Xbox Game Speech Window
+5-7-2022 14:34:49	- UnReg (di:0)
+5-7-2022 14:34:51	Done
+5-7-2022 14:34:51	Removing: Xbox Game UI
+5-7-2022 14:34:51	Done - 1.6 MB
+5-7-2022 14:34:51	Removing: Xbox Identity Provider
+5-7-2022 14:34:51	- UnReg (di:0)
+5-7-2022 14:34:54	Done
+5-7-2022 14:34:54	Removing: Xbox TCUI
+5-7-2022 14:34:54	- UnReg (di:0)
+5-7-2022 14:34:56	Done
+5-7-2022 14:34:56	Removing: Xbox
+5-7-2022 14:34:56	- UnReg (di:0)
+5-7-2022 14:34:59	Done
+5-7-2022 14:34:59	Removing: Your Phone
+5-7-2022 14:34:59	- UnReg (di:0)
+5-7-2022 14:35:02	Done
+5-7-2022 14:35:02	Removing: ActiveX Installer Service
+5-7-2022 14:35:02	Done - 0.2 ¦ 0.002 MB
+5-7-2022 14:35:02	Removing: ADLaM
+5-7-2022 14:35:02	Done - 0.02 MB
+5-7-2022 14:35:02	Removing: Agent Activation Runtime
+5-7-2022 14:35:02	Done - 25.3 MB
+5-7-2022 14:35:02	Removing: Albanian
+5-7-2022 14:35:02	Done - 0.02 MB
+5-7-2022 14:35:02	Removing: AllJoyn Router Service
+5-7-2022 14:35:02	Done - 6.3 MB
+5-7-2022 14:35:02	Removing: Application Virtualization (App-V)
+5-7-2022 14:35:02	Done - 20.7 ¦ 0.004 MB
+5-7-2022 14:35:03	Removing: Arabic (101)
+5-7-2022 14:35:03	Done - 0.01 MB
+5-7-2022 14:35:03	Removing: Arabic (102) AZERTY
+5-7-2022 14:35:03	Done - 0.01 MB
+5-7-2022 14:35:03	Removing: Arabic (102)
+5-7-2022 14:35:03	Done - 0.01 MB
+5-7-2022 14:35:03	Removing: Arabic
+5-7-2022 14:35:03	Done - 0.3 ¦ 0.007 MB
+5-7-2022 14:35:03	Removing: Arial Black
+5-7-2022 14:35:03	Done - 0.2 MB
+5-7-2022 14:35:03	Removing: Armenian Eastern (Legacy)
+5-7-2022 14:35:03	Done - 0.01 MB
+5-7-2022 14:35:03	Removing: Armenian Phonetic
+5-7-2022 14:35:03	Done - 0.01 MB
+5-7-2022 14:35:03	Removing: Armenian Typewriter
+5-7-2022 14:35:03	Done - 0.01 MB
+5-7-2022 14:35:03	Removing: Armenian Western (Legacy)
+5-7-2022 14:35:03	Done - 0.01 MB
+5-7-2022 14:35:03	Removing: Assamese - INSCRIPT
+5-7-2022 14:35:03	Done - 0.01 MB
+5-7-2022 14:35:03	Removing: Assigned Access
+5-7-2022 14:35:03	Done - 3.0 ¦ 0.006 MB
+5-7-2022 14:35:03	Removing: Azerbaijani (Standard)
+5-7-2022 14:35:03	Done - 0.01 MB
+5-7-2022 14:35:03	Removing: Azerbaijani Cyrillic
+5-7-2022 14:35:03	Done - 0.01 MB
+5-7-2022 14:35:03	Removing: Azerbaijani Latin
+5-7-2022 14:35:03	Done - 0.01 MB
+5-7-2022 14:35:03	Removing: Bahnschrift
+5-7-2022 14:35:03	Done - 0.4 MB
+5-7-2022 14:35:03	Removing: Bangla - INSCRIPT (Legacy)
+5-7-2022 14:35:03	Done - 0.01 MB
+5-7-2022 14:35:03	Removing: Bangla - INSCRIPT
+5-7-2022 14:35:03	Done - 0.01 MB
+5-7-2022 14:35:03	Removing: Bangla
+5-7-2022 14:35:03	Done - 0.01 MB
+5-7-2022 14:35:03	Removing: Bashkir
+5-7-2022 14:35:03	Done - 0.01 MB
+5-7-2022 14:35:03	Removing: Belarusian
+5-7-2022 14:35:03	Done - 0.01 MB
+5-7-2022 14:35:03	Removing: Belgian (Comma)
+5-7-2022 14:35:03	Done - 0.02 MB
+5-7-2022 14:35:03	Removing: Belgian (Period)
+5-7-2022 14:35:03	Done - 0.01 MB
+5-7-2022 14:35:03	Removing: Belgian French
+5-7-2022 14:35:03	Done
+5-7-2022 14:35:03	Removing: Bosnian (Cyrillic)
+5-7-2022 14:35:03	Done - 0.01 MB
+5-7-2022 14:35:03	Removing: BranchCache Client
+5-7-2022 14:35:05	Done - 7.2 ¦ 0.04 MB
+5-7-2022 14:35:05	Removing: Browser Brokers
+5-7-2022 14:35:05	Done - 0.6 MB
+5-7-2022 14:35:05	Removing: Buginese
+5-7-2022 14:35:05	Done - 0.01 MB
+5-7-2022 14:35:05	Removing: Bulgarian (Latin)
+5-7-2022 14:35:05	Done
+5-7-2022 14:35:05	Removing: Bulgarian (Phonetic Traditional)
+5-7-2022 14:35:05	Done - 0.01 MB
+5-7-2022 14:35:05	Removing: Bulgarian (Phonetic)
+5-7-2022 14:35:05	Done - 0.01 MB
+5-7-2022 14:35:05	Removing: Bulgarian (Typewriter)
+5-7-2022 14:35:05	Done - 0.01 MB
+5-7-2022 14:35:05	Removing: Bulgarian
+5-7-2022 14:35:05	Done - 0.01 MB
+5-7-2022 14:35:05	Removing: Bulgarian
+5-7-2022 14:35:05	Done - 0.5 ¦ 0.007 MB
+5-7-2022 14:35:05	Removing: Cache and temp files
+5-7-2022 14:35:06	Done - 9.2 MB
+5-7-2022 14:35:06	Removing: Calibri
+5-7-2022 14:35:07	Done - 7.7 MB
+5-7-2022 14:35:07	Removing: Cambria & Cambria Math
+5-7-2022 14:35:07	Done - 1.7 MB
+5-7-2022 14:35:07	Removing: Cambria
+5-7-2022 14:35:07	Done - 2.5 MB
+5-7-2022 14:35:07	Removing: Canadian French (Legacy)
+5-7-2022 14:35:07	Done - 0.02 MB
+5-7-2022 14:35:07	Removing: Canadian French
+5-7-2022 14:35:07	Done - 0.02 MB
+5-7-2022 14:35:07	Removing: Canadian Multilingual Standard
+5-7-2022 14:35:07	Done - 0.02 MB
+5-7-2022 14:35:07	Removing: Candara
+5-7-2022 14:35:07	Done - 1.1 MB
+5-7-2022 14:35:07	Removing: Capture Service
+5-7-2022 14:35:07	Done - 0.1 MB
+5-7-2022 14:35:07	Removing: CEIP (SQM)
+5-7-2022 14:35:08	Done - 0.6 MB
+5-7-2022 14:35:08	Removing: Central Atlas Tamazight
+5-7-2022 14:35:08	Done - 0.02 MB
+5-7-2022 14:35:08	Removing: Central Kurdish
+5-7-2022 14:35:08	Done - 0.01 MB
+5-7-2022 14:35:08	Removing: Cherokee Nation
+5-7-2022 14:35:08	Done - 0.01 MB
+5-7-2022 14:35:08	Removing: Cherokee Phonetic
+5-7-2022 14:35:08	Done - 0.03 MB
+5-7-2022 14:35:08	Removing: Chinese (Simplified) - US
+5-7-2022 14:35:08	Done
+5-7-2022 14:35:08	Removing: Chinese (Simplified, Singapore) - US
+5-7-2022 14:35:08	Done
+5-7-2022 14:35:08	Removing: Chinese (Traditional) - US
+5-7-2022 14:35:08	Done
+5-7-2022 14:35:08	Removing: Chinese (Traditional, Hong Kong S.A.R.) - US
+5-7-2022 14:35:08	Done
+5-7-2022 14:35:08	Removing: Chinese (Traditional, Macao S.A.R.) - US
+5-7-2022 14:35:08	Done
+5-7-2022 14:35:08	Removing: Chinese Simplified
+5-7-2022 14:35:09	Done - 4.5 ¦ 0.008 ¦ 7.8 MB
+5-7-2022 14:35:09	Removing: Chinese Traditional (IME)
+5-7-2022 14:35:09	Done - 17.4 MB
+5-7-2022 14:35:09	Removing: Chinese Traditional
+5-7-2022 14:35:09	Done - 4.5 ¦ 0.008 ¦ 8.4 MB
+5-7-2022 14:35:09	Removing: Clipboard User Service
+5-7-2022 14:35:09	Done - 1.0 MB
+5-7-2022 14:35:09	Removing: ComicSansMS
+5-7-2022 14:35:09	Done - 0.9 MB
+5-7-2022 14:35:09	Removing: Constantia
+5-7-2022 14:35:10	Done - 1.7 MB
+5-7-2022 14:35:10	Removing: Corbel
+5-7-2022 14:35:10	Done - 1.4 MB
+5-7-2022 14:35:10	Removing: Courier
+5-7-2022 14:35:10	Done - 0.4 MB
+5-7-2022 14:35:10	Removing: Croatian
+5-7-2022 14:35:10	Done - 0.5 ¦ 0.007 MB
+5-7-2022 14:35:10	Removing: Czech (QWERTY)
+5-7-2022 14:35:10	Done - 0.02 MB
+5-7-2022 14:35:10	Removing: Czech Programmers
+5-7-2022 14:35:10	Done - 0.02 MB
+5-7-2022 14:35:10	Removing: Czech
+5-7-2022 14:35:10	Done - 0.02 MB
+5-7-2022 14:35:10	Removing: Czech
+5-7-2022 14:35:10	Done - 0.7 ¦ 0.008 MB
+5-7-2022 14:35:10	Removing: Danish
+5-7-2022 14:35:10	Done - 0.01 MB
+5-7-2022 14:35:10	Removing: Danish
+5-7-2022 14:35:10	Done - 0.7 ¦ 0.008 MB
+5-7-2022 14:35:10	Removing: Data Sharing Service
+5-7-2022 14:35:10	Done - 0.2 MB
+5-7-2022 14:35:10	Removing: Data Usage service
+5-7-2022 14:35:10	Done - 1.7 MB
+5-7-2022 14:35:10	Removing: Desktop image downloader
+5-7-2022 14:35:10	Done - 0.2 MB
+5-7-2022 14:35:10	Removing: Devanagari - INSCRIPT
+5-7-2022 14:35:10	Done - 0.01 MB
+5-7-2022 14:35:10	Removing: DevQuery Background Discovery Broker
+5-7-2022 14:35:10	Done - 0.06 MB
+5-7-2022 14:35:10	Removing: DirectX WARP JIT Service
+5-7-2022 14:35:10	Done - 0.2 MB
+5-7-2022 14:35:10	Removing: Disk failure diagnostics
+5-7-2022 14:35:10	Done - 0.1 MB
+5-7-2022 14:35:10	Removing: Divehi Phonetic
+5-7-2022 14:35:10	Done - 0.01 MB
+5-7-2022 14:35:10	Removing: Divehi Typewriter
+5-7-2022 14:35:10	Done - 0.01 MB
+5-7-2022 14:35:10	Removing: Dutch
+5-7-2022 14:35:10	Done - 0.01 MB
+5-7-2022 14:35:10	Removing: Dutch
+5-7-2022 14:35:11	Done - 0.7 ¦ 0.008 MB
+5-7-2022 14:35:11	Removing: Dzongkha
+5-7-2022 14:35:11	Done - 0.01 MB
+5-7-2022 14:35:11	Removing: Ebrima Bold
+5-7-2022 14:35:11	Done - 0.9 MB
+5-7-2022 14:35:11	Removing: Ebrima
+5-7-2022 14:35:11	Done - 0.9 ¦ 0.000324 MB
+5-7-2022 14:35:11	Removing: Embedded Mode
+5-7-2022 14:35:11	Done - 0.2 MB
+5-7-2022 14:35:11	Removing: English (GB)
+5-7-2022 14:35:11	Done - 0.5 ¦ 0.007 MB
+5-7-2022 14:35:11	Removing: English (India)
+5-7-2022 14:35:11	Done - 0.02 MB
+5-7-2022 14:35:11	Removing: Estonian
+5-7-2022 14:35:11	Done - 0.01 MB
+5-7-2022 14:35:11	Removing: Estonian
+5-7-2022 14:35:11	Done - 0.5 ¦ 0.007 MB
+5-7-2022 14:35:11	Removing: Faeroese
+5-7-2022 14:35:11	Done - 0.01 MB
+5-7-2022 14:35:11	Removing: File Server Resource Manager
+5-7-2022 14:35:12	Done - 5.6 ¦ 0.002 MB
+5-7-2022 14:35:12	Removing: Finnish with Sami
+5-7-2022 14:35:12	Done - 0.02 MB
+5-7-2022 14:35:12	Removing: Finnish
+5-7-2022 14:35:12	Done - 0.01 MB
+5-7-2022 14:35:12	Removing: Finnish
+5-7-2022 14:35:12	Done - 0.7 ¦ 0.008 MB
+5-7-2022 14:35:12	Removing: Fixed
+5-7-2022 14:35:12	Done - 0.2 ¦ 0.001 MB
+5-7-2022 14:35:12	Removing: Floppy disk
+5-7-2022 14:35:12	Done
+5-7-2022 14:35:12	Removing: Font previewer - 32 bit
+5-7-2022 14:35:12	Done - 0.9 MB
+5-7-2022 14:35:12	Removing: FranklinGothic
+5-7-2022 14:35:12	Done - 0.3 MB
+5-7-2022 14:35:13	Removing: French (Canadian)
+5-7-2022 14:35:13	Done - 0.5 ¦ 0.007 MB
+5-7-2022 14:35:13	Removing: French
+5-7-2022 14:35:13	Done - 0.01 MB
+5-7-2022 14:35:13	Removing: French
+5-7-2022 14:35:13	Done - 0.7 ¦ 0.008 MB
+5-7-2022 14:35:13	Removing: Futhark
+5-7-2022 14:35:13	Done - 0.01 MB
+5-7-2022 14:35:13	Removing: Gabriola
+5-7-2022 14:35:13	Done - 1.7 MB
+5-7-2022 14:35:13	Removing: Game Explorer
+5-7-2022 14:35:13	Done - 0.04 MB
+5-7-2022 14:35:13	Removing: Georgia
+5-7-2022 14:35:13	Done - 0.8 MB
+5-7-2022 14:35:13	Removing: Georgian (Ergonomic)
+5-7-2022 14:35:13	Done - 0.01 MB
+5-7-2022 14:35:13	Removing: Georgian (Legacy)
+5-7-2022 14:35:13	Done - 0.01 MB
+5-7-2022 14:35:13	Removing: Georgian (MES)
+5-7-2022 14:35:13	Done - 0.01 MB
+5-7-2022 14:35:13	Removing: Georgian (Old Alphabets)
+5-7-2022 14:35:13	Done - 0.01 MB
+5-7-2022 14:35:13	Removing: Georgian (QWERTY)
+5-7-2022 14:35:13	Done - 0.01 MB
+5-7-2022 14:35:13	Removing: German (IBM)
+5-7-2022 14:35:13	Done - 0.02 MB
+5-7-2022 14:35:13	Removing: German
+5-7-2022 14:35:13	Done - 0.01 MB
+5-7-2022 14:35:14	Removing: German
+5-7-2022 14:35:15	Done - 0.7 ¦ 0.008 MB
+5-7-2022 14:35:15	Removing: Gothic
+5-7-2022 14:35:15	Done - 0.01 MB
+5-7-2022 14:35:15	Removing: Greek (220) Latin
+5-7-2022 14:35:15	Done - 0.01 MB
+5-7-2022 14:35:15	Removing: Greek (220)
+5-7-2022 14:35:15	Done - 0.01 MB
+5-7-2022 14:35:15	Removing: Greek (319) Latin
+5-7-2022 14:35:15	Done - 0.02 MB
+5-7-2022 14:35:15	Removing: Greek (319)
+5-7-2022 14:35:15	Done - 0.01 MB
+5-7-2022 14:35:15	Removing: Greek Latin
+5-7-2022 14:35:15	Done - 0.02 MB
+5-7-2022 14:35:15	Removing: Greek Polytonic
+5-7-2022 14:35:15	Done - 0.02 MB
+5-7-2022 14:35:15	Removing: Greek
+5-7-2022 14:35:15	Done - 0.01 MB
+5-7-2022 14:35:15	Removing: Greek
+5-7-2022 14:35:15	Done - 0.7 ¦ 0.008 MB
+5-7-2022 14:35:15	Removing: Greenlandic
+5-7-2022 14:35:15	Done - 0.02 MB
+5-7-2022 14:35:15	Removing: Guarani
+5-7-2022 14:35:15	Done - 0.02 MB
+5-7-2022 14:35:15	Removing: Gujarati
+5-7-2022 14:35:15	Done - 0.01 MB
+5-7-2022 14:35:15	Removing: Hausa
+5-7-2022 14:35:15	Done - 0.01 MB
+5-7-2022 14:35:15	Removing: Hawaiian
+5-7-2022 14:35:15	Done - 0.01 MB
+5-7-2022 14:35:15	Removing: Hebrew (Standard)
+5-7-2022 14:35:15	Done - 0.01 MB
+5-7-2022 14:35:15	Removing: Hebrew
+5-7-2022 14:35:15	Done - 0.01 MB
+5-7-2022 14:35:15	Removing: Hebrew
+5-7-2022 14:35:15	Done - 0.3 ¦ 0.007 MB
+5-7-2022 14:35:15	Removing: Hindi Traditional
+5-7-2022 14:35:15	Done - 0.01 MB
+5-7-2022 14:35:15	Removing: Holo MDL2 Assets
+5-7-2022 14:35:15	Done - 0.04 MB
+5-7-2022 14:35:16	Removing: Host Bus Adapter (HBA) API
+5-7-2022 14:35:16	Done - 1.8 MB
+5-7-2022 14:35:16	Removing: Hungarian 101-key
+5-7-2022 14:35:16	Done - 0.01 MB
+5-7-2022 14:35:16	Removing: Hungarian
+5-7-2022 14:35:16	Done - 0.02 MB
+5-7-2022 14:35:16	Removing: Hungarian
+5-7-2022 14:35:16	Done - 0.7 ¦ 0.008 MB
+5-7-2022 14:35:16	Removing: Icelandic
+5-7-2022 14:35:16	Done - 0.01 MB
+5-7-2022 14:35:16	Removing: Igbo
+5-7-2022 14:35:16	Done - 0.01 MB
+5-7-2022 14:35:16	Removing: Impact
+5-7-2022 14:35:16	Done - 0.2 MB
+5-7-2022 14:35:16	Removing: Infrared devices
+5-7-2022 14:35:16	Done - 0.09 MB
+5-7-2022 14:35:16	Removing: Ink Free
+5-7-2022 14:35:16	Done - 0.05 MB
+5-7-2022 14:35:16	Removing: Intel Indeo Codecs
+5-7-2022 14:35:16	Done - 2.7 MB
+5-7-2022 14:35:16	Removing: Internet Printing Client
+5-7-2022 14:35:16	Done - 0.3 ¦ 0.002 MB
+5-7-2022 14:35:16	Removing: Inuktitut - Latin
+5-7-2022 14:35:16	Done - 0.02 MB
+5-7-2022 14:35:16	Removing: Inuktitut - Naqittaut
+5-7-2022 14:35:16	Done - 0.02 MB
+5-7-2022 14:35:16	Removing: Irish
+5-7-2022 14:35:16	Done - 0.01 MB
+5-7-2022 14:35:16	Removing: iSCSI Initiator
+5-7-2022 14:35:16	Done - 2.3 ¦ 0.005 MB
+5-7-2022 14:35:16	Removing: Italian (142)
+5-7-2022 14:35:16	Done - 0.01 MB
+5-7-2022 14:35:16	Removing: Italian
+5-7-2022 14:35:16	Done - 0.01 MB
+5-7-2022 14:35:16	Removing: Italian
+5-7-2022 14:35:16	Done - 0.7 ¦ 0.008 MB
+5-7-2022 14:35:16	Removing: Japanese (IME)
+5-7-2022 14:35:17	Done - 24.3 MB
+5-7-2022 14:35:17	Removing: Japanese
+5-7-2022 14:35:17	Done - 0.03 MB
+5-7-2022 14:35:17	Removing: Japanese
+5-7-2022 14:35:17	Done - 4.7 ¦ 0.008 ¦ 4.5 MB
+5-7-2022 14:35:17	Removing: Javanese Text
+5-7-2022 14:35:17	Done - 0.3 MB
+5-7-2022 14:35:17	Removing: Javanese
+5-7-2022 14:35:17	Done - 0.01 MB
+5-7-2022 14:35:17	Removing: Kannada
+5-7-2022 14:35:17	Done - 0.01 MB
+5-7-2022 14:35:17	Removing: Kazakh
+5-7-2022 14:35:17	Done - 0.01 MB
+5-7-2022 14:35:17	Removing: Kernel Debugging
+5-7-2022 14:35:17	Done - 2.6 MB
+5-7-2022 14:35:17	Removing: Khmer (NIDA)
+5-7-2022 14:35:17	Done - 0.01 MB
+5-7-2022 14:35:17	Removing: Khmer
+5-7-2022 14:35:17	Done - 0.01 MB
+5-7-2022 14:35:17	Removing: Korean (IME)
+5-7-2022 14:35:18	Done - 7.9 MB
+5-7-2022 14:35:18	Removing: Korean
+5-7-2022 14:35:18	Done - 0.03 MB
+5-7-2022 14:35:18	Removing: Korean
+5-7-2022 14:35:18	Done - 3.2 ¦ 0.008 ¦ 5.4 MB
+5-7-2022 14:35:18	Removing: Kyrgyz Cyrillic
+5-7-2022 14:35:18	Done - 0.01 MB
+5-7-2022 14:35:18	Removing: Lao
+5-7-2022 14:35:18	Done - 0.01 MB
+5-7-2022 14:35:18	Removing: Latin American
+5-7-2022 14:35:18	Done - 0.02 MB
+5-7-2022 14:35:18	Removing: Latvian (QWERTY)
+5-7-2022 14:35:18	Done - 0.02 MB
+5-7-2022 14:35:18	Removing: Latvian (Standard)
+5-7-2022 14:35:18	Done - 0.02 MB
+5-7-2022 14:35:18	Removing: Latvian
+5-7-2022 14:35:18	Done - 0.01 MB
+5-7-2022 14:35:18	Removing: Latvian
+5-7-2022 14:35:18	Done - 0.5 ¦ 0.007 MB
+5-7-2022 14:35:18	Removing: Lisu (Basic)
+5-7-2022 14:35:18	Done - 0.01 MB
+5-7-2022 14:35:18	Removing: Lisu (Standard)
+5-7-2022 14:35:18	Done - 0.01 MB
+5-7-2022 14:35:18	Removing: Lithuanian IBM
+5-7-2022 14:35:18	Done - 0.01 MB
+5-7-2022 14:35:18	Removing: Lithuanian Standard
+5-7-2022 14:35:18	Done - 0.01 MB
+5-7-2022 14:35:18	Removing: Lithuanian
+5-7-2022 14:35:18	Done - 0.01 MB
+5-7-2022 14:35:18	Removing: Lithuanian
+5-7-2022 14:35:18	Done - 0.5 ¦ 0.007 MB
+5-7-2022 14:35:18	Removing: Location notifications
+5-7-2022 14:35:18	Done - 0.7 MB
+5-7-2022 14:35:18	Removing: Location Service
+5-7-2022 14:35:19	Done - 2.9 MB
+5-7-2022 14:35:19	Removing: Lock Screen backgrounds
+5-7-2022 14:35:19	Done - 7.5 MB
+5-7-2022 14:35:19	Removing: Lucida Sans Unicode
+5-7-2022 14:35:19	Done - 0.3 MB
+5-7-2022 14:35:19	Removing: Luxembourgish
+5-7-2022 14:35:19	Done - 0.02 MB
+5-7-2022 14:35:19	Removing: Macedonian (North Macedonia) - Standard
+5-7-2022 14:35:19	Done - 0.01 MB
+5-7-2022 14:35:19	Removing: Macedonian (North Macedonia)
+5-7-2022 14:35:19	Done - 0.01 MB
+5-7-2022 14:35:19	Removing: Malayalam
+5-7-2022 14:35:19	Done - 0.01 MB
+5-7-2022 14:35:19	Removing: Malgun Gothic Bold
+5-7-2022 14:35:19	Done - 12.0 MB
+5-7-2022 14:35:19	Removing: Malgun Gothic SemiLight
+5-7-2022 14:35:19	Done - 4.8 MB
+5-7-2022 14:35:19	Removing: Maltese 47-Key
+5-7-2022 14:35:19	Done - 0.01 MB
+5-7-2022 14:35:19	Removing: Maltese 48-Key
+5-7-2022 14:35:19	Done - 0.01 MB
+5-7-2022 14:35:19	Removing: Manual feature repository
+5-7-2022 14:35:19	Done - 69.9 MB
+5-7-2022 14:35:19	Removing: Maori
+5-7-2022 14:35:19	Done - 0.01 MB
+5-7-2022 14:35:19	Removing: Map Control
+5-7-2022 14:35:20	Done - 33.3 ¦ 0.000801 MB
+5-7-2022 14:35:20	Removing: Marathi
+5-7-2022 14:35:20	Done - 0.01 MB
+5-7-2022 14:35:20	Removing: Microsoft GS Wavetable SW Synth (MIDI)
+5-7-2022 14:35:21	Done - 7.3 MB
+5-7-2022 14:35:21	Removing: Microsoft Himalaya
+5-7-2022 14:35:21	Done - 0.5 MB
+5-7-2022 14:35:21	Removing: Microsoft JhengHei Bold & Microsoft JhengHei UI Bold
+5-7-2022 14:35:21	Done - 13.8 MB
+5-7-2022 14:35:21	Removing: Microsoft JhengHei Light & Microsoft JhengHei UI Light
+5-7-2022 14:35:21	Done - 12.3 MB
+5-7-2022 14:35:21	Removing: Microsoft New Tai Lue Bold
+5-7-2022 14:35:21	Done - 0.06 MB
+5-7-2022 14:35:21	Removing: Microsoft New Tai Lue
+5-7-2022 14:35:21	Done - 0.07 MB
+5-7-2022 14:35:21	Removing: Microsoft PhagsPa Bold
+5-7-2022 14:35:21	Done - 0.09 MB
+5-7-2022 14:35:21	Removing: Microsoft PhagsPa
+5-7-2022 14:35:21	Done - 0.09 MB
+5-7-2022 14:35:21	Removing: Microsoft Tai Le Bold
+5-7-2022 14:35:21	Done - 0.06 MB
+5-7-2022 14:35:21	Removing: Microsoft Tai Le
+5-7-2022 14:35:21	Done - 0.06 MB
+5-7-2022 14:35:21	Removing: Microsoft YaHei Bold & Microsoft YaHei UI Bold
+5-7-2022 14:35:21	Done - 16.0 MB
+5-7-2022 14:35:22	Removing: Microsoft YaHei Light & Microsoft YaHei UI Light
+5-7-2022 14:35:22	Done - 11.6 MB
+5-7-2022 14:35:22	Removing: Microsoft Yi Baiti
+5-7-2022 14:35:22	Done - 0.3 MB
+5-7-2022 14:35:22	Removing: MingLiU-ExtB & PMingLiU-ExtB & MingLiU_HKSCS-ExtB
+5-7-2022 14:35:22	Done - 35.1 MB
+5-7-2022 14:35:22	Removing: MMGA MAPI
+5-7-2022 14:35:22	Done - 5.3 MB
+5-7-2022 14:35:22	Removing: Mongolian (Mongolian Script)
+5-7-2022 14:35:22	Done - 0.01 MB
+5-7-2022 14:35:22	Removing: Mongolian Baiti
+5-7-2022 14:35:22	Done - 0.3 MB
+5-7-2022 14:35:22	Removing: Mongolian Cyrillic
+5-7-2022 14:35:22	Done - 0.01 MB
+5-7-2022 14:35:22	Removing: MS Gothic & MS UI Gothic & MS PGothic
+5-7-2022 14:35:22	Done - 8.6 MB
+5-7-2022 14:35:22	Removing: MV Boli
+5-7-2022 14:35:22	Done - 0.07 MB
+5-7-2022 14:35:22	Removing: Myanmar (Phonetic order)
+5-7-2022 14:35:22	Done - 0.01 MB
+5-7-2022 14:35:22	Removing: Myanmar (Visual order)
+5-7-2022 14:35:22	Done
+5-7-2022 14:35:22	Removing: Myanmar Text Bold
+5-7-2022 14:35:22	Done - 0.3 MB
+5-7-2022 14:35:22	Removing: Myanmar Text
+5-7-2022 14:35:22	Done - 0.3 MB
+5-7-2022 14:35:22	Removing: Near Field Communication (NFC)
+5-7-2022 14:35:22	Done - 2.1 MB
+5-7-2022 14:35:22	Removing: Nepali
+5-7-2022 14:35:22	Done - 0.02 MB
+5-7-2022 14:35:22	Removing: Network Projection
+5-7-2022 14:35:23	Done - 0.3 ¦ 0.002 MB
+5-7-2022 14:35:23	Removing: Networking Background Transfer
+5-7-2022 14:35:23	Done - 2.9 MB
+5-7-2022 14:35:23	Removing: New Tai Lue
+5-7-2022 14:35:23	Done - 0.01 MB
+5-7-2022 14:35:23	Removing: Norwegian with Sami
+5-7-2022 14:35:23	Done - 0.02 MB
+5-7-2022 14:35:23	Removing: Norwegian
+5-7-2022 14:35:23	Done - 0.01 MB
+5-7-2022 14:35:23	Removing: Norwegian
+5-7-2022 14:35:23	Done - 0.7 ¦ 0.008 MB
+5-7-2022 14:35:23	Removing: Now Playing Session Manager
+5-7-2022 14:35:23	Done - 1.3 MB
+5-7-2022 14:35:23	Removing: N’Ko
+5-7-2022 14:35:23	Done - 0.01 MB
+5-7-2022 14:35:23	Removing: Odia
+5-7-2022 14:35:23	Done - 0.01 MB
+5-7-2022 14:35:23	Removing: OEM
+5-7-2022 14:35:23	Done - 0.2 ¦ 0.001 MB
+5-7-2022 14:35:23	Removing: Ogham
+5-7-2022 14:35:23	Done - 0.01 MB
+5-7-2022 14:35:23	Removing: Ol Chiki
+5-7-2022 14:35:23	Done - 0.01 MB
+5-7-2022 14:35:23	Removing: Old Italic
+5-7-2022 14:35:23	Done - 0.01 MB
+5-7-2022 14:35:23	Removing: OneDrive
+5-7-2022 14:35:23	Done - 29.6 ¦ 0.004 MB
+5-7-2022 14:35:23	Removing: Osage
+5-7-2022 14:35:23	Done - 0.01 MB
+5-7-2022 14:35:23	Removing: Osmanya
+5-7-2022 14:35:23	Done - 0.01 MB
+5-7-2022 14:35:23	Removing: Packet Monitor (PktMon)
+5-7-2022 14:35:23	Done - 0.9 MB
+5-7-2022 14:35:23	Removing: PalatinoLinotype
+5-7-2022 14:35:23	Done - 1.6 MB
+5-7-2022 14:35:23	Removing: Pashto (Afghanistan)
+5-7-2022 14:35:23	Done - 0.01 MB
+5-7-2022 14:35:23	Removing: Payments
+5-7-2022 14:35:24	Done - 1.0 MB
+5-7-2022 14:35:24	Removing: Peer Networking
+5-7-2022 14:35:24	Done - 3.4 MB
+5-7-2022 14:35:24	Removing: Persian (Standard)
+5-7-2022 14:35:24	Done - 0.01 MB
+5-7-2022 14:35:24	Removing: Persian
+5-7-2022 14:35:24	Done - 0.01 MB
+5-7-2022 14:35:24	Removing: Phags-pa
+5-7-2022 14:35:24	Done - 0.01 MB
+5-7-2022 14:35:24	Removing: Phone Service
+5-7-2022 14:35:24	Done - 1.2 MB
+5-7-2022 14:35:24	Removing: Photo codec - 32 bit
+5-7-2022 14:35:24	Done - 0.3 MB
+5-7-2022 14:35:24	Removing: Photo Viewer - 32 bit
+5-7-2022 14:35:24	Done - 36.6 ¦ 0.03 MB
+5-7-2022 14:35:24	Removing: Picture password
+5-7-2022 14:35:24	Done - 2.6 MB
+5-7-2022 14:35:24	Removing: Point of Service (POS)
+5-7-2022 14:35:25	Done - 8.5 MB
+5-7-2022 14:35:25	Removing: Polish (214)
+5-7-2022 14:35:25	Done - 0.02 MB
+5-7-2022 14:35:25	Removing: Polish (Programmers)
+5-7-2022 14:35:25	Done - 0.01 MB
+5-7-2022 14:35:25	Removing: Polish
+5-7-2022 14:35:25	Done - 0.7 ¦ 0.008 MB
+5-7-2022 14:35:25	Removing: Portuguese (Brazil ABNT)
+5-7-2022 14:35:25	Done - 0.01 MB
+5-7-2022 14:35:25	Removing: Portuguese (Brazil ABNT2)
+5-7-2022 14:35:25	Done
+5-7-2022 14:35:25	Removing: Portuguese (Brazilian)
+5-7-2022 14:35:26	Done - 0.7 ¦ 0.008 MB
+5-7-2022 14:35:26	Removing: Portuguese
+5-7-2022 14:35:26	Done
+5-7-2022 14:35:26	Removing: Portuguese
+5-7-2022 14:35:26	Done - 0.7 ¦ 0.008 MB
+5-7-2022 14:35:26	Removing: Print to PDF
+5-7-2022 14:35:26	Done - 0.09 ¦ 0.02 MB
+5-7-2022 14:35:26	Removing: Print Workflow Service
+5-7-2022 14:35:26	Done - 1.3 MB
+5-7-2022 14:35:26	Removing: Pseudo-locale
+5-7-2022 14:35:27	Done - 0.3 ¦ 0.001 MB
+5-7-2022 14:35:27	Removing: Punjabi
+5-7-2022 14:35:27	Done - 0.01 MB
+5-7-2022 14:35:27	Removing: Recommended Troubleshooting service
+5-7-2022 14:35:27	Done - 0.5 MB
+5-7-2022 14:35:27	Removing: Remote Access Auto Connection Manager
+5-7-2022 14:35:27	Done - 0.2 ¦ 0.003 MB
+5-7-2022 14:35:27	Removing: Remote Assistance
+5-7-2022 14:35:27	Done - 1.8 ¦ 0.02 MB
+5-7-2022 14:35:27	Removing: Remote Desktop Licensing
+5-7-2022 14:35:27	Done - 0.3 MB
+5-7-2022 14:35:27	Removing: Remote Desktop Services Port Redirector
+5-7-2022 14:35:27	Done - 0.6 MB
+5-7-2022 14:35:27	Removing: Remote Direct Memory Access (RDMA) ping tool
+5-7-2022 14:35:27	Done - 0.1 MB
+5-7-2022 14:35:27	Removing: Remote Procedure Call (RPC) Locator
+5-7-2022 14:35:27	Done - 0.01 MB
+5-7-2022 14:35:27	Removing: Remote Registry
+5-7-2022 14:35:27	Done - 0.2 MB
+5-7-2022 14:35:27	Removing: RemoteFX
+5-7-2022 14:35:29	Done - 2.9 ¦ 0.08 MB
+5-7-2022 14:35:29	Removing: Retail Demo Content
+5-7-2022 14:35:29	Done - 1.2 MB
+5-7-2022 14:35:29	Removing: Romanian (Legacy)
+5-7-2022 14:35:29	Done - 0.02 MB
+5-7-2022 14:35:29	Removing: Romanian (Programmers)
+5-7-2022 14:35:29	Done - 0.02 MB
+5-7-2022 14:35:29	Removing: Romanian (Standard)
+5-7-2022 14:35:29	Done - 0.02 MB
+5-7-2022 14:35:29	Removing: Romanian
+5-7-2022 14:35:29	Done - 0.5 ¦ 0.007 MB
+5-7-2022 14:35:29	Removing: Russian (Typewriter)
+5-7-2022 14:35:29	Done - 0.01 MB
+5-7-2022 14:35:29	Removing: Russian - Mnemonic
+5-7-2022 14:35:29	Done - 0.02 MB
+5-7-2022 14:35:29	Removing: Russian
+5-7-2022 14:35:29	Done - 0.01 MB
+5-7-2022 14:35:29	Removing: Russian
+5-7-2022 14:35:29	Done - 0.7 ¦ 0.008 MB
+5-7-2022 14:35:29	Removing: Sakha
+5-7-2022 14:35:29	Done - 0.01 MB
+5-7-2022 14:35:29	Removing: Sami Extended Finland-Sweden
+5-7-2022 14:35:29	Done - 0.02 MB
+5-7-2022 14:35:29	Removing: Sami Extended Norway
+5-7-2022 14:35:29	Done - 0.02 MB
+5-7-2022 14:35:29	Removing: Scanner
+5-7-2022 14:35:29	Done - 0.8 ¦ 0.005 MB
+5-7-2022 14:35:29	Removing: Scottish Gaelic
+5-7-2022 14:35:29	Done - 0.01 MB
+5-7-2022 14:35:29	Removing: Screensavers
+5-7-2022 14:35:29	Done - 2.0 MB
+5-7-2022 14:35:29	Removing: Security Center
+5-7-2022 14:35:29	Done - 2.9 MB
+5-7-2022 14:35:29	Removing: Segoe Print Bold
+5-7-2022 14:35:29	Done - 0.2 MB
+5-7-2022 14:35:29	Removing: Segoe Print
+5-7-2022 14:35:29	Done - 0.2 MB
+5-7-2022 14:35:29	Removing: SegoeScript
+5-7-2022 14:35:30	Done - 1.1 MB
+5-7-2022 14:35:30	Removing: SegoeUI ItalicsSupplement
+5-7-2022 14:35:30	Done - 1.7 MB
+5-7-2022 14:35:30	Removing: Serbian (Cyrillic)
+5-7-2022 14:35:30	Done - 0.01 MB
+5-7-2022 14:35:30	Removing: Serbian (Latin)
+5-7-2022 14:35:30	Done - 0.02 MB
+5-7-2022 14:35:30	Removing: Serbian
+5-7-2022 14:35:30	Done - 0.5 ¦ 0.007 MB
+5-7-2022 14:35:30	Removing: Sesotho sa Leboa
+5-7-2022 14:35:30	Done - 0.02 MB
+5-7-2022 14:35:30	Removing: Setswana
+5-7-2022 14:35:30	Done
+5-7-2022 14:35:30	Removing: Share Media Control Panel
+5-7-2022 14:35:30	Done - 0.2 MB
+5-7-2022 14:35:30	Removing: Shared PC mode
+5-7-2022 14:35:30	Done - 0.5 MB
+5-7-2022 14:35:30	Removing: Simple TCP/IP services
+5-7-2022 14:35:30	Done - 0.05 ¦ 0.02 MB
+5-7-2022 14:35:30	Removing: SimSun & NSimSun
+5-7-2022 14:35:30	Done - 17.4 MB
+5-7-2022 14:35:30	Removing: SimSun-ExtB
+5-7-2022 14:35:30	Done - 16.3 MB
+5-7-2022 14:35:30	Removing: Sinhala - Wij 9
+5-7-2022 14:35:30	Done - 0.02 MB
+5-7-2022 14:35:30	Removing: Sinhala
+5-7-2022 14:35:30	Done - 0.01 MB
+5-7-2022 14:35:30	Removing: Sitka
+5-7-2022 14:35:30	Done - 3.7 MB
+5-7-2022 14:35:30	Removing: Skype ORTC
+5-7-2022 14:35:31	Done - 14.3 MB
+5-7-2022 14:35:31	Removing: Slovak (QWERTY)
+5-7-2022 14:35:31	Done - 0.02 MB
+5-7-2022 14:35:31	Removing: Slovak
+5-7-2022 14:35:31	Done - 0.02 MB
+5-7-2022 14:35:31	Removing: Slovak
+5-7-2022 14:35:31	Done - 0.5 ¦ 0.007 MB
+5-7-2022 14:35:31	Removing: Slovenian
+5-7-2022 14:35:31	Done
+5-7-2022 14:35:31	Removing: Slovenian
+5-7-2022 14:35:31	Done - 0.5 ¦ 0.007 MB
+5-7-2022 14:35:31	Removing: Small
+5-7-2022 14:35:31	Done - 0.5 MB
+5-7-2022 14:35:31	Removing: Smartcard
+5-7-2022 14:35:31	Done - 5.7 ¦ 0.4 MB
+5-7-2022 14:35:31	Removing: Snipping Tool
+5-7-2022 14:35:31	Done - 3.2 MB
+5-7-2022 14:35:31	Removing: Sora
+5-7-2022 14:35:31	Done - 0.01 MB
+5-7-2022 14:35:31	Removing: Sorbian Extended
+5-7-2022 14:35:31	Done - 0.02 MB
+5-7-2022 14:35:31	Removing: Sorbian Standard (Legacy)
+5-7-2022 14:35:31	Done - 0.02 MB
+5-7-2022 14:35:31	Removing: Sorbian Standard
+5-7-2022 14:35:31	Done - 0.02 MB
+5-7-2022 14:35:31	Removing: Sound Themes
+5-7-2022 14:35:31	Done
+5-7-2022 14:35:31	Removing: Spanish Variation
+5-7-2022 14:35:31	Done - 0.02 MB
+5-7-2022 14:35:31	Removing: Spanish
+5-7-2022 14:35:31	Done - 0.01 MB
+5-7-2022 14:35:31	Removing: Spanish
+5-7-2022 14:35:32	Done - 1.2 ¦ 0.02 MB
+5-7-2022 14:35:32	Removing: Spatial Sound (3D Audio)
+5-7-2022 14:35:32	Done - 7.9 MB
+5-7-2022 14:35:32	Removing: Speech TTS
+5-7-2022 14:35:32	Done - 31.5 ¦ 0.4 MB
+5-7-2022 14:35:32	Removing: Standard
+5-7-2022 14:35:32	Done
+5-7-2022 14:35:32	Removing: Static Font Cache
+5-7-2022 14:35:32	Done - 18.4 MB
+5-7-2022 14:35:32	Removing: Steps Recorder
+5-7-2022 14:35:32	Done - 1.4 ¦ 0.02 MB
+5-7-2022 14:35:32	Removing: Support directory
+5-7-2022 14:35:33	Done - 0.3 MB
+5-7-2022 14:35:33	Removing: Swedish with Sami
+5-7-2022 14:35:33	Done
+5-7-2022 14:35:33	Removing: Swedish
+5-7-2022 14:35:33	Done - 0.01 MB
+5-7-2022 14:35:33	Removing: Swedish
+5-7-2022 14:35:33	Done - 0.7 ¦ 0.008 MB
+5-7-2022 14:35:33	Removing: Swiss French
+5-7-2022 14:35:33	Done
+5-7-2022 14:35:33	Removing: Swiss German
+5-7-2022 14:35:33	Done
+5-7-2022 14:35:33	Removing: Sylfaen
+5-7-2022 14:35:33	Done - 0.2 MB
+5-7-2022 14:35:33	Removing: Sync Center
+5-7-2022 14:35:33	Done - 3.8 MB
+5-7-2022 14:35:33	Removing: Syriac Phonetic
+5-7-2022 14:35:33	Done - 0.01 MB
+5-7-2022 14:35:33	Removing: Syriac
+5-7-2022 14:35:33	Done - 0.01 MB
+5-7-2022 14:35:33	Removing: System
+5-7-2022 14:35:33	Done - 0.2 ¦ 0.001 MB
+5-7-2022 14:35:33	Removing: Table Text Service
+5-7-2022 14:35:33	Done - 5.8 MB
+5-7-2022 14:35:33	Removing: Tai Le
+5-7-2022 14:35:33	Done - 0.01 MB
+5-7-2022 14:35:33	Removing: Tajik
+5-7-2022 14:35:33	Done - 0.01 MB
+5-7-2022 14:35:33	Removing: Tamil 99
+5-7-2022 14:35:33	Done - 0.007 MB
+5-7-2022 14:35:33	Removing: Tamil
+5-7-2022 14:35:33	Done - 0.01 MB
+5-7-2022 14:35:33	Removing: Tamil
+5-7-2022 14:35:33	Done
+5-7-2022 14:35:33	Removing: Targeted Content Service - 32 bit
+5-7-2022 14:35:33	Done - 0.8 MB
+5-7-2022 14:35:33	Removing: Tatar (Legacy)
+5-7-2022 14:35:33	Done - 0.01 MB
+5-7-2022 14:35:33	Removing: Tatar
+5-7-2022 14:35:33	Done - 0.01 MB
+5-7-2022 14:35:33	Removing: Telugu
+5-7-2022 14:35:33	Done - 0.01 MB
+5-7-2022 14:35:33	Removing: Thai Kedmanee (non-ShiftLock)
+5-7-2022 14:35:33	Done - 0.01 MB
+5-7-2022 14:35:33	Removing: Thai Kedmanee
+5-7-2022 14:35:33	Done - 0.01 MB
+5-7-2022 14:35:33	Removing: Thai Pattachote (non-ShiftLock)
+5-7-2022 14:35:33	Done - 0.01 MB
+5-7-2022 14:35:33	Removing: Thai Pattachote
+5-7-2022 14:35:33	Done - 0.01 MB
+5-7-2022 14:35:33	Removing: Thai
+5-7-2022 14:35:34	Done - 0.3 ¦ 0.007 MB
+5-7-2022 14:35:34	Removing: Tibetan (PRC) - Updated
+5-7-2022 14:35:34	Done - 0.02 MB
+5-7-2022 14:35:34	Removing: Tibetan (PRC)
+5-7-2022 14:35:34	Done - 0.02 MB
+5-7-2022 14:35:34	Removing: Tifinagh (Basic)
+5-7-2022 14:35:34	Done - 0.01 MB
+5-7-2022 14:35:34	Removing: Tifinagh (Extended)
+5-7-2022 14:35:34	Done - 0.01 MB
+5-7-2022 14:35:34	Removing: Traditional Mongolian (Standard)
+5-7-2022 14:35:34	Done - 0.01 MB
+5-7-2022 14:35:34	Removing: TrebuchetMS
+5-7-2022 14:35:34	Done - 0.9 MB
+5-7-2022 14:35:34	Removing: Turkish F
+5-7-2022 14:35:34	Done - 0.02 MB
+5-7-2022 14:35:34	Removing: Turkish Q
+5-7-2022 14:35:34	Done - 0.02 MB
+5-7-2022 14:35:34	Removing: Turkish
+5-7-2022 14:35:34	Done - 0.7 ¦ 0.008 MB
+5-7-2022 14:35:34	Removing: Turkmen
+5-7-2022 14:35:34	Done - 0.01 MB
+5-7-2022 14:35:34	Removing: TV Tuner codecs and support
+5-7-2022 14:35:35	Done - 8.2 MB
+5-7-2022 14:35:35	Removing: Ukrainian (Enhanced)
+5-7-2022 14:35:35	Done - 0.01 MB
+5-7-2022 14:35:35	Removing: Ukrainian
+5-7-2022 14:35:35	Done - 0.01 MB
+5-7-2022 14:35:35	Removing: Ukrainian
+5-7-2022 14:35:35	Done - 0.5 ¦ 0.007 MB
+5-7-2022 14:35:35	Removing: United Kingdom Extended
+5-7-2022 14:35:35	Done - 0.02 MB
+5-7-2022 14:35:35	Removing: United Kingdom
+5-7-2022 14:35:35	Done - 0.01 MB
+5-7-2022 14:35:35	Removing: United States-Dvorak
+5-7-2022 14:35:35	Done - 0.01 MB
+5-7-2022 14:35:35	Removing: Urdu
+5-7-2022 14:35:35	Done - 0.01 MB
+5-7-2022 14:35:35	Removing: US English Table for IBM Arabic 238_L
+5-7-2022 14:35:35	Done - 0.01 MB
+5-7-2022 14:35:35	Removing: Uyghur (Legacy)
+5-7-2022 14:35:35	Done - 0.01 MB
+5-7-2022 14:35:35	Removing: Uyghur
+5-7-2022 14:35:35	Done - 0.01 MB
+5-7-2022 14:35:35	Removing: Uzbek Cyrillic
+5-7-2022 14:35:35	Done - 0.01 MB
+5-7-2022 14:35:35	Removing: Vector
+5-7-2022 14:35:35	Done - 0.03 MB
+5-7-2022 14:35:35	Removing: Verdana
+5-7-2022 14:35:35	Done - 0.9 MB
+5-7-2022 14:35:35	Removing: Vietnamese
+5-7-2022 14:35:35	Done - 0.01 MB
+5-7-2022 14:35:35	Removing: Wallpapers (Themes)
+5-7-2022 14:35:38	Done - 8.3 ¦ 0.000153 MB
+5-7-2022 14:35:38	Removing: Webcam Experience
+5-7-2022 14:35:38	Done - 1.9 ¦ 0.004 MB
+5-7-2022 14:35:38	Removing: Webdings
+5-7-2022 14:35:38	Done - 0.1 MB
+5-7-2022 14:35:38	Removing: Windows AI Machine Learning
+5-7-2022 14:35:38	Done - 9.4 MB
+5-7-2022 14:35:38	Removing: Windows Audit
+5-7-2022 14:35:40	Done - 2.3 ¦ 0.02 MB
+5-7-2022 14:35:40	Removing: Windows Disc Image Burning Tool
+5-7-2022 14:35:40	Done - 0.2 MB
+5-7-2022 14:35:40	Removing: Windows Mail Communications Library
+5-7-2022 14:35:40	Done
+5-7-2022 14:35:40	Removing: Windows Mixed Reality
+5-7-2022 14:35:42	Done - 73.8 ¦ 0.05 MB
+5-7-2022 14:35:42	Removing: Windows Personalization themes
+5-7-2022 14:35:42	Done - 0.006 MB
+5-7-2022 14:35:42	Removing: Windows PushToInstall Service
+5-7-2022 14:35:42	Done
+5-7-2022 14:35:42	Removing: Windows Reader (PDF)
+5-7-2022 14:35:42	Done - 12.8 MB
+5-7-2022 14:35:42	Removing: Windows System Assessment Tool (WinSAT)
+5-7-2022 14:35:42	Done - 3.5 ¦ 0.000813 MB
+5-7-2022 14:35:42	Removing: Windows TIFF IFilter (OCR)
+5-7-2022 14:35:42	Done - 1.9 ¦ 0.3 MB
+5-7-2022 14:35:42	Removing: Wolof
+5-7-2022 14:35:42	Done - 0.01 MB
+5-7-2022 14:35:42	Removing: Work Folders Client
+5-7-2022 14:35:42	Done - 3.7 ¦ 0.02 MB
+5-7-2022 14:35:42	Removing: Xbox - Core
+5-7-2022 14:35:43	Done - 13.0 ¦ 0.002 MB
+5-7-2022 14:35:43	Removing: Yoruba
+5-7-2022 14:35:43	Done - 0.01 MB
+5-7-2022 14:35:43	Removing: Yu Gothic Bold & Yu Gothic UI Semibold & Yu Gothic UI Bold
+5-7-2022 14:35:43	Done - 13.8 MB
+5-7-2022 14:35:43	Removing: Yu Gothic Light & Yu Gothic UI Light
+5-7-2022 14:35:43	Done - 13.2 MB
+5-7-2022 14:35:43	Removing: Yu Gothic Medium & Yu Gothic UI Regular
+5-7-2022 14:35:43	Done - 13.1 ¦ 0.000546 MB
+5-7-2022 14:35:43	Removing: Yu Gothic Regular & Yu Gothic UI Semilight
+5-7-2022 14:35:43	Done - 13.0 MB
+5-7-2022 14:35:43	Removing: Diagnostics and Troubleshooting
+5-7-2022 14:35:46	Done - 15.4 ¦ 0.001 MB
+5-7-2022 14:35:46	Removing: Input Method Editor (IME)
+5-7-2022 14:35:49	Done - 46.3 MB
+5-7-2022 14:35:49	Removing: MobilePC
+5-7-2022 14:35:49	Done - 0.8 MB
+5-7-2022 14:35:49	Removing: MPEG-2 Splitter
+5-7-2022 14:35:49	Done - 0.4 MB
+5-7-2022 14:35:49	Removing: Network Connection Broker
+5-7-2022 14:35:49	Done - 0.4 ¦ 0.004 MB
+5-7-2022 14:35:49	Removing: Network Data Usage Monitoring Driver
+5-7-2022 14:35:49	Done - 0.3 MB
+5-7-2022 14:35:49	Removing: Offline Files
+5-7-2022 14:35:49	Done - 3.2 ¦ 0.03 ¦ 0.1 MB
+5-7-2022 14:35:49	Removing: Photo codec
+5-7-2022 14:35:49	Done - 0.4 MB
+5-7-2022 14:35:49	Removing: Photo Viewer
+5-7-2022 14:35:50	Done - 38.2 ¦ 0.03 MB
+5-7-2022 14:35:50	Removing: Printing
+5-7-2022 14:35:52	Done - 30.8 ¦ 0.08 MB
+5-7-2022 14:35:52	Removing: Remote Desktop Server
+5-7-2022 14:35:53	Done - 21.8 ¦ 0.07 ¦ 0.10 MB
+5-7-2022 14:35:53	Removing: Sensors
+5-7-2022 14:35:53	Done - 6.7 MB
+5-7-2022 14:35:53	Removing: Sounds (Default)
+5-7-2022 14:35:54	Done - 18.3 ¦ 0.003 MB
+5-7-2022 14:35:54	Removing: Speech API
+5-7-2022 14:35:54	Done - 2.7 MB
+5-7-2022 14:35:54	Removing: Speech Recognition
+5-7-2022 14:35:59	Done - 18.7 ¦ 0.1 MB
+5-7-2022 14:35:59	Removing: Still Image Class Installer
+5-7-2022 14:35:59	Done - 0.2 MB
+5-7-2022 14:35:59	Removing: Telephony
+5-7-2022 14:35:59	Done - 5.9 MB
+5-7-2022 14:35:59	Removing: Wallpaper (Default)
+5-7-2022 14:35:59	Done
+5-7-2022 14:35:59	Removing: Windows Audit (Tools)
+5-7-2022 14:35:59	Done
+5-7-2022 14:35:59	Removing: Windows Image Acquisition (WIA)
+5-7-2022 14:36:00	Done - 4.6 ¦ 0.007 MB
+5-7-2022 14:36:00	 - DCL
+5-7-2022 14:36:00	- UnReg (di:0)
+5-7-2022 14:36:14	- DS
+5-7-2022 14:36:14	Deleting temporary files: D:\kut temp\NLTmpScratch\NLTmpS01
+5-7-2022 14:36:14	# 
+5-7-2022 14:36:14	Applying - Tweaks
+5-7-2022 14:36:15	# 
+5-7-2022 14:36:15	CUCT
+5-7-2022 14:36:15	Cleaning leftover entries
+5-7-2022 14:36:16	Cleaning empty directories
+5-7-2022 14:36:17	# 
+5-7-2022 14:36:19	# 
+5-7-2022 14:36:19	# 
+5-7-2022 14:36:19	# 
+5-7-2022 14:36:19	# 
+5-7-2022 14:36:19	# 
+5-7-2022 14:36:19	Total removed:  1312.6 MB Hard links  /  58.0 MB Files  /  96.5 MB ISO Files
+5-7-2022 14:36:19	- UnReg (di:1)
+5-7-2022 14:36:23	- UnReg (di:0)
+5-7-2022 14:36:26	Saving changes to the image - D:\win\Windows\Sources\install.wim - Windows 10 Professional (21H2) x64 - 10.0.19044.1288 (en-US)
+5-7-2022 14:36:26	- UnReg (di:1)
+5-7-2022 14:40:36	Deleting temporary files: D:\kut temp\NLTmpMnt01
+5-7-2022 14:40:36	Deleting temporary files: D:\kut temp\NLTmpMnt01_wt
+5-7-2022 14:40:36	Cleaning mount directory
+5-7-2022 14:40:36	# 
+5-7-2022 14:40:36	Remove nonessential editions
+5-7-2022 14:40:36	Delete: 1. Microsoft Windows PE (x64) ...
+5-7-2022 14:40:36	GWH
+5-7-2022 14:40:37	 - boot.wim 1. Microsoft Windows PE (x64)  
+5-7-2022 14:40:38	 - Gather image list
+5-7-2022 14:40:38	Save settings
+5-7-2022 14:40:38	Load image list
+5-7-2022 14:40:38	Exporting D:\win\Windows\Sources\boot.wim:1 -> D:\kut temp\NLTmpWExp3f565a9a\boot.wim
+5-7-2022 14:40:38	 - WG Export
+5-7-2022 14:40:38	GWH
+5-7-2022 14:40:39	Image compression: 2
+5-7-2022 14:40:39	GWH
+5-7-2022 14:40:45	Deleting temporary files: D:\kut temp\NLTmpWEDst3f565a9a1
+5-7-2022 14:40:45	Deleting temporary files: D:\kut temp\NLTmpWESrc3f565a9a1
+5-7-2022 14:40:45	Exporting D:\win\Windows\Sources\install.wim:1 -> D:\win\Windows\Sources\install.esd
+5-7-2022 14:40:45	 - WL Export
+5-7-2022 14:40:51	Image compression: 2
+5-7-2022 14:52:37	# 
+5-7-2022 14:52:37	# 
+5-7-2022 14:52:37	Create ISO
+5-7-2022 14:52:37	 - Source Image root D:\win\Windows
+5-7-2022 14:52:37	 - Automatic mode, destination D:\clean\projectzerocleanandprivacy.iso, label spaceTM
+5-7-2022 14:52:37	 - Create ISO thread D:\clean\projectzerocleanandprivacy.iso
+5-7-2022 14:52:37	 - Found BIOS boot sector
+5-7-2022 14:52:37	 - Found EFI boot sector
+5-7-2022 14:52:37	 - Adding BIOS boot sector
+5-7-2022 14:52:37	 - Adding EFI boot sector
+5-7-2022 14:52:37	 - Create file stream
+5-7-2022 14:52:37	Preparing files for the ISO image. (D:\win\Windows)
+5-7-2022 14:52:41	Saving ISO image: D:\clean\projectzerocleanandprivacy.iso
+5-7-2022 14:53:09	# 
+5-7-2022 14:53:09	Cleaning - TD
+5-7-2022 14:53:09	- UnReg (di:0)
+5-7-2022 14:53:09	Deleting temporary files: D:\kut temp\NLTmpScratch
+5-7-2022 14:53:10	Load image list
+5-7-2022 14:53:10	Cannot find image path: D:\win\Windows\Sources\install.wim
+5-7-2022 14:53:10	- UnReg (di:0)
+5-7-2022 14:53:10	Cleaning
+5-7-2022 14:53:10	Waiting for other operations to finish
+5-7-2022 14:53:11	Completed - Windows 10 Pro - ISO image: D:\clean\projectzerocleanandprivacy.iso (spaceTM) 3262.1 MB [24m 47s]
+5-7-2022 14:53:16	 - Gather image list
+5-7-2022 14:53:16	Save settings
+5-7-2022 14:53:16	Load image list
+5-7-2022 14:53:16	Cannot find image path: D:\win\Windows\Sources\install.wim
+5-7-2022 14:53:16	Cannot read image info, missing file: D:\win\Windows\Sources\install.wim
+5-7-2022 15:16:08	Exporting D:\win\Windows\Sources\install.esd:1 -> D:\win\Windows\Sources\install.wim
+5-7-2022 15:16:08	 - WG Export
+5-7-2022 15:16:08	GWH
+5-7-2022 15:16:08	WIM error_23: 11
+5-7-2022 15:16:14	Image compression: 2
+5-7-2022 15:16:14	GWH
+5-7-2022 15:19:50	Deleting temporary files: D:\kut temp\NLTmpWEDstd14cf1df1
+5-7-2022 15:19:50	Deleting temporary files: D:\kut temp\NLTmpWESrcd14cf1df1
+5-7-2022 15:19:50	# 
+5-7-2022 15:19:50	Remove item from the list: 1. Windows 10 Pro
+5-7-2022 15:19:50	 - Forget edition 1. Windows 10 Pro
+5-7-2022 15:19:50	Cleaning mount directory
+5-7-2022 15:19:50	Cleaning mount directory
+5-7-2022 15:19:50	Completed - Cleaning mount directory
+5-7-2022 15:19:50	- UnReg (di:0)
+5-7-2022 15:19:50	Cleaning
+5-7-2022 15:19:50	Waiting for other operations to finish
+5-7-2022 15:19:50	Completed
+5-7-2022 15:20:18	 - Gather image list
+5-7-2022 15:20:18	Save settings
+5-7-2022 15:20:18	Load image list
+5-7-2022 15:20:20	Image load: Windows 10 Pro - D:\win\Windows\Sources\install.wim
+5-7-2022 15:20:20	Mounting image: D:\win\Windows\Sources\install.wim - Windows 10 Pro
+5-7-2022 15:20:20		Mount dir: D:\kut temp\NLTmpMnt01
+5-7-2022 15:20:20	GWH
+5-7-2022 15:24:17	# 
+5-7-2022 15:24:18	Windows 10 Professional (21H2) x64 - 10.0.19044.1288
+5-7-2022 15:24:18	Reading data: Windows 10 Professional (21H2) x64 - 10.0.19044.1288 (en-US)
+5-7-2022 15:24:18	- Gather hardware lists
+5-7-2022 15:24:18	- Gather packages
+5-7-2022 15:24:20	 - Package sorting
+5-7-2022 15:24:20	 - Connecting PBC
+5-7-2022 15:24:20	- Filtering packages
+5-7-2022 15:24:21	- Gather existing drivers
+5-7-2022 15:24:23	- Gather services
+5-7-2022 15:24:28	- Gather driver services
+5-7-2022 15:24:29	- Gather scheduled tasks
+5-7-2022 15:24:29	- Gather components
+5-7-2022 15:24:30	- Gather languages
+5-7-2022 15:24:30	- Gather keyboards
+5-7-2022 15:24:30	- Gather fonts
+5-7-2022 15:24:31	- Connect drivers
+5-7-2022 15:24:31	- Gather tweaks
+5-7-2022 15:24:31	- Gather unattended data
+5-7-2022 15:24:31		- Timezones
+5-7-2022 15:24:32		- Keyboards
+5-7-2022 15:24:32		- Locales
+5-7-2022 15:24:32	- Gather unattended options
+5-7-2022 15:24:32	# 
+5-7-2022 15:24:32	Load preset: Auto-saved 071fc4be
+5-7-2022 15:24:32		-Loading components
+5-7-2022 15:24:32	- Apply compatibility options
+5-7-2022 15:24:32		- Reset
+5-7-2022 15:24:32		-Loading features
+5-7-2022 15:24:32		-Loading drivers
+5-7-2022 15:24:33		-Loading unattended
+5-7-2022 15:24:33	- Gather unattended options
+5-7-2022 15:24:33		-Loading tweaks
+5-7-2022 15:24:33		-Loading apply options
+5-7-2022 15:24:33	 - Gather image list
+5-7-2022 15:24:33	Save settings
+5-7-2022 15:24:33	Load image list
+5-7-2022 15:24:33	Windows 10 Professional (21H2) x64 - 10.0.19044.1288
+5-7-2022 15:24:33		-Loading execution list
+5-7-2022 15:24:33	- Gather existing Post-Setup Machine
+5-7-2022 15:24:33	- Gather existing Post-Setup User
+5-7-2022 15:24:33		-Loading registry list
+5-7-2022 15:24:33		-Loading updates
+5-7-2022 15:24:33	# 
+5-7-2022 15:24:33	# 
+5-7-2022 15:24:33	- UnReg (di:0)
+5-7-2022 15:24:36	Cleaning
+5-7-2022 15:24:36	Waiting for other operations to finish
+5-7-2022 15:24:36	Completed - Image load - Preset load 'Auto-saved 071fc4be'
+5-7-2022 15:24:36	 - Gather image list
+5-7-2022 15:24:36	Save settings
+5-7-2022 15:24:36	Load image list
+5-7-2022 15:24:38	Windows 10 Professional (21H2) x64 - 10.0.19044.1288
+5-7-2022 15:24:40	Load preset: project zero privacy and clean
+5-7-2022 15:24:40		-Loading components
+5-7-2022 15:24:40	- Apply compatibility options
+5-7-2022 15:24:40		- Reset
+5-7-2022 15:24:40		-Loading features
+5-7-2022 15:24:40		-Loading drivers
+5-7-2022 15:24:40		-Loading unattended
+5-7-2022 15:24:40	- Gather unattended options
+5-7-2022 15:24:40		-Loading tweaks
+5-7-2022 15:24:40		-Loading apply options
+5-7-2022 15:24:40	 - Gather image list
+5-7-2022 15:24:40	Save settings
+5-7-2022 15:24:40	Load image list
+5-7-2022 15:24:40	Windows 10 Professional (21H2) x64 - 10.0.19044.1288
+5-7-2022 15:24:40		-Loading execution list
+5-7-2022 15:24:40	- Gather existing Post-Setup Machine
+5-7-2022 15:24:40	- Gather existing Post-Setup User
+5-7-2022 15:24:40		-Loading registry list
+5-7-2022 15:24:40		-Loading updates
+5-7-2022 15:24:40	# 
+5-7-2022 15:24:40	# 
+5-7-2022 15:24:40	- UnReg (di:0)
+5-7-2022 15:24:40	Completed - Preset load 'project zero privacy and clean'
+5-7-2022 15:24:50	- Listing components
+5-7-2022 15:30:24	- Listing post-setup executions
+5-7-2022 15:34:44	Completed - Preset clone 'project zero privacy and clean' -> 'project zero test'.
+5-7-2022 15:34:46	Load preset: project zero test
+5-7-2022 15:34:46		-Loading components
+5-7-2022 15:34:46	- Apply compatibility options
+5-7-2022 15:34:46		- Reset
+5-7-2022 15:34:46	- Listing components
+5-7-2022 15:34:46		-Loading features
+5-7-2022 15:34:47		-Loading drivers
+5-7-2022 15:34:47		-Loading unattended
+5-7-2022 15:34:47	- Gather unattended options
+5-7-2022 15:34:47		-Loading tweaks
+5-7-2022 15:34:47		-Loading apply options
+5-7-2022 15:34:47	 - Gather image list
+5-7-2022 15:34:47	Save settings
+5-7-2022 15:34:47	Load image list
+5-7-2022 15:34:47	Windows 10 Professional (21H2) x64 - 10.0.19044.1288
+5-7-2022 15:34:47		-Loading execution list
+5-7-2022 15:34:47	- Gather existing Post-Setup Machine
+5-7-2022 15:34:47	- Gather existing Post-Setup User
+5-7-2022 15:34:47		-Loading registry list
+5-7-2022 15:34:47		-Loading updates
+5-7-2022 15:34:47	# 
+5-7-2022 15:34:47	# 
+5-7-2022 15:34:47	- UnReg (di:0)
+5-7-2022 15:34:47	Cleaning
+5-7-2022 15:34:47	Waiting for other operations to finish
+5-7-2022 15:35:02	Completed - Preset load 'project zero test'
+5-7-2022 15:35:37	Load preset: project zero privacy and clean
+5-7-2022 15:35:37		-Loading components
+5-7-2022 15:35:37	- Apply compatibility options
+5-7-2022 15:35:37		- Reset
+5-7-2022 15:35:38	- Listing components
+5-7-2022 15:35:38		-Loading features
+5-7-2022 15:35:38		-Loading drivers
+5-7-2022 15:35:38		-Loading unattended
+5-7-2022 15:35:38	- Gather unattended options
+5-7-2022 15:35:38		-Loading tweaks
+5-7-2022 15:35:38		-Loading apply options
+5-7-2022 15:35:38	 - Gather image list
+5-7-2022 15:35:38	Save settings
+5-7-2022 15:35:38	Load image list
+5-7-2022 15:35:39	Windows 10 Professional (21H2) x64 - 10.0.19044.1288
+5-7-2022 15:35:39		-Loading execution list
+5-7-2022 15:35:39	- Gather existing Post-Setup Machine
+5-7-2022 15:35:39	- Gather existing Post-Setup User
+5-7-2022 15:35:39		-Loading registry list
+5-7-2022 15:35:39		-Loading updates
+5-7-2022 15:35:39	# 
+5-7-2022 15:35:39	# 
+5-7-2022 15:35:39	- UnReg (di:0)
+5-7-2022 15:35:39	Completed - Preset load 'project zero privacy and clean'
+5-7-2022 15:36:30	Drivers page fill
+5-7-2022 15:36:30	- Hardware list refresh
+5-7-2022 15:36:30	- Listing added drivers
+5-7-2022 15:36:30	- Listing hardware devices
+5-7-2022 15:36:31	- Listing hardware devices
+5-7-2022 15:37:31	- Listing hardware devices
+5-7-2022 15:52:27	- Save preset: project zero privacy and clean
+5-7-2022 15:52:27	Unattended: root
+5-7-2022 15:52:27	Unattended: pass 'Generalize'
+5-7-2022 15:52:27	Unattended: pass 'OOBE (Final install options)'
+5-7-2022 15:52:27	Unattended: pass 'Specialize'
+5-7-2022 15:52:27	Unattended: pass 'WindowsPE (Setup options)'
+5-7-2022 15:52:30	- Listing hardware devices
+5-7-2022 15:52:44	- UnReg (di:0)
+5-7-2022 15:52:45	Deleting temporary files: D:\kut temp\NLTmpScratch
+5-7-2022 15:52:45	Load image list
+5-7-2022 15:52:45	 - Gather image list
+5-7-2022 15:52:45	Save settings
+5-7-2022 15:52:45	Load image list
+5-7-2022 15:52:46	Unloading image, discarding changes - D:\win\Windows\Sources\install.wim - Windows 10 Pro
+5-7-2022 15:52:46	- UnReg (di:1)
+5-7-2022 15:55:50	Deleting temporary files: D:\kut temp\NLTmpMnt01
+5-7-2022 15:55:50	Deleting temporary files: D:\kut temp\NLTmpMnt01_wt
+5-7-2022 15:55:50	Cleaning mount directory
+5-7-2022 15:55:50	# 
+5-7-2022 15:55:50	# 
+5-7-2022 15:55:50	# 
+5-7-2022 15:55:50	- UnReg (di:0)
+5-7-2022 15:55:50	Cleaning
+5-7-2022 15:55:50	Waiting for other operations to finish
+5-7-2022 15:55:55	Completed - Windows 10 Professional (21H2) x64 - 10.0.19044.1288 - Image unloaded without saving any changes - D:\win\Windows\Sources\install.wim 'Windows 10 Pro'
+5-7-2022 15:55:59	 - Gather image list
+5-7-2022 15:55:59	Save settings
+5-7-2022 15:55:59	Load image list
+5-7-2022 15:56:01	 - Gather image list
+5-7-2022 15:56:01	Save settings
+5-7-2022 15:56:01	Load image list
+5-7-2022 15:56:02	Image load: Microsoft Windows Setup (x64) - D:\win\Windows\Sources\boot.wim
+5-7-2022 15:56:02	Mounting image: D:\win\Windows\Sources\boot.wim - Microsoft Windows Setup (x64)
+5-7-2022 15:56:02		Mount dir: D:\kut temp\NLTmpMnt01
+5-7-2022 15:56:02	GWH
+5-7-2022 15:56:25	# 
+5-7-2022 15:56:29	Windows 10 Setup (20H1) x64 - 10.0.19041.1288
+5-7-2022 15:56:29	Reading data: Windows 10 Setup (20H1) x64 - 10.0.19041.1288 (en-US)
+5-7-2022 15:56:29	- Gather hardware lists
+5-7-2022 15:56:29	- Gather packages
+5-7-2022 15:56:30	 - Package sorting
+5-7-2022 15:56:30	 - Connecting PBC
+5-7-2022 15:56:30	- Filtering packages
+5-7-2022 15:56:30	- Gather existing drivers
+5-7-2022 15:56:31	- Gather services
+5-7-2022 15:56:32	- Gather driver services
+5-7-2022 15:56:32	- Gather scheduled tasks
+5-7-2022 15:56:32	- Gather components
+5-7-2022 15:56:32	- Gather languages
+5-7-2022 15:56:32	- Gather keyboards
+5-7-2022 15:56:33	- Gather fonts
+5-7-2022 15:56:34	- Connect drivers
+5-7-2022 15:56:34	- Gather tweaks
+5-7-2022 15:56:35	# 
+5-7-2022 15:56:35	Load preset: Auto-saved 3f565a9a
+5-7-2022 15:56:35		-Loading components
+5-7-2022 15:56:35	- Apply compatibility options
+5-7-2022 15:56:35		- Reset
+5-7-2022 15:56:35		-Loading drivers
+5-7-2022 15:56:35		-Loading tweaks
+5-7-2022 15:56:35		-Loading registry list
+5-7-2022 15:56:35		-Loading apply options
+5-7-2022 15:56:35	 - Gather image list
+5-7-2022 15:56:35	Save settings
+5-7-2022 15:56:35	Load image list
+5-7-2022 15:56:35	Windows 10 Setup (20H1) x64 - 10.0.19041.1288
+5-7-2022 15:56:35		-Loading updates
+5-7-2022 15:56:35	# 
+5-7-2022 15:56:35	# 
+5-7-2022 15:56:35	- UnReg (di:0)
+5-7-2022 15:56:36	Cleaning
+5-7-2022 15:56:36	Waiting for other operations to finish
+5-7-2022 15:56:36	Completed - Image load
+5-7-2022 15:56:36	 - Gather image list
+5-7-2022 15:56:36	Save settings
+5-7-2022 15:56:36	Load image list
+5-7-2022 15:56:36	Windows 10 Setup (20H1) x64 - 10.0.19041.1288
+5-7-2022 15:56:43	- Listing components
+5-7-2022 15:56:52	Load preset: project zero privacy and clean
+5-7-2022 15:56:52		-Loading components
+5-7-2022 15:56:52	- Apply compatibility options
+5-7-2022 15:56:52		- Reset
+5-7-2022 15:56:52	- Listing components
+5-7-2022 15:56:53		-Loading drivers
+5-7-2022 15:56:53		-Loading tweaks
+5-7-2022 15:56:53		-Loading apply options
+5-7-2022 15:56:53	 - Gather image list
+5-7-2022 15:56:53	Save settings
+5-7-2022 15:56:53	Load image list
+5-7-2022 15:56:53	Windows 10 Setup (20H1) x64 - 10.0.19041.1288
+5-7-2022 15:56:53		-Loading registry list
+5-7-2022 15:56:53		-Loading updates
+5-7-2022 15:56:53	# 
+5-7-2022 15:56:53	# 
+5-7-2022 15:56:53	- UnReg (di:0)
+5-7-2022 15:56:53	Completed - Preset load 'project zero privacy and clean'
+5-7-2022 15:57:21	- UnReg (di:0)
+5-7-2022 15:57:21	Deleting temporary files: D:\kut temp\NLTmpScratch
+5-7-2022 15:57:22	Load image list
+5-7-2022 15:57:22	 - Gather image list
+5-7-2022 15:57:22	Save settings
+5-7-2022 15:57:22	Load image list
+5-7-2022 15:57:23	Unloading image, discarding changes - D:\win\Windows\Sources\boot.wim - Microsoft Windows Setup (x64)
+5-7-2022 15:57:23	- UnReg (di:1)
+5-7-2022 15:57:44	Deleting temporary files: D:\kut temp\NLTmpMnt01
+5-7-2022 15:57:44	Deleting temporary files: D:\kut temp\NLTmpMnt01_wt
+5-7-2022 15:57:44	Cleaning mount directory
+5-7-2022 15:57:44	# 
+5-7-2022 15:57:44	# 
+5-7-2022 15:57:44	# 
+5-7-2022 15:57:44	- UnReg (di:0)
+5-7-2022 15:57:44	Cleaning
+5-7-2022 15:57:44	Waiting for other operations to finish
+5-7-2022 15:57:44	Completed - Windows 10 Setup (20H1) x64 - 10.0.19041.1288 - Image unloaded without saving any changes - D:\win\Windows\Sources\boot.wim 'Microsoft Windows Setup (x64)'
+5-7-2022 15:57:49	 - Gather image list
+5-7-2022 15:57:49	Save settings
+5-7-2022 15:57:49	Load image list
+5-7-2022 15:57:53	 - Gather image list
+5-7-2022 15:57:53	Save settings
+5-7-2022 15:57:53	Load image list
+5-7-2022 15:57:53	Image load: Windows 10 Pro - D:\win\Windows\Sources\install.wim
+5-7-2022 15:57:53	Mounting image: D:\win\Windows\Sources\install.wim - Windows 10 Pro
+5-7-2022 15:57:53		Mount dir: D:\kut temp\NLTmpMnt01
+5-7-2022 15:57:53	GWH
+5-7-2022 16:02:07	# 
+5-7-2022 16:02:08	Windows 10 Professional (21H2) x64 - 10.0.19044.1288
+5-7-2022 16:02:08	Reading data: Windows 10 Professional (21H2) x64 - 10.0.19044.1288 (en-US)
+5-7-2022 16:02:08	- Gather hardware lists
+5-7-2022 16:02:08	- Gather packages
+5-7-2022 16:02:10	 - Package sorting
+5-7-2022 16:02:10	 - Connecting PBC
+5-7-2022 16:02:10	- Filtering packages
+5-7-2022 16:02:12	- Gather existing drivers
+5-7-2022 16:02:14	- Gather services
+5-7-2022 16:02:19	- Gather driver services
+5-7-2022 16:02:20	- Gather scheduled tasks
+5-7-2022 16:02:21	- Gather components
+5-7-2022 16:02:22	- Gather languages
+5-7-2022 16:02:22	- Gather keyboards
+5-7-2022 16:02:22	- Gather fonts
+5-7-2022 16:02:23	- Connect drivers
+5-7-2022 16:02:23	- Gather tweaks
+5-7-2022 16:02:24	- Gather unattended data
+5-7-2022 16:02:24		- Timezones
+5-7-2022 16:02:24		- Keyboards
+5-7-2022 16:02:24		- Locales
+5-7-2022 16:02:24	- Gather unattended options
+5-7-2022 16:02:24	# 
+5-7-2022 16:02:24	Load preset: Auto-saved 071fc4be
+5-7-2022 16:02:24		-Loading components
+5-7-2022 16:02:24	- Apply compatibility options
+5-7-2022 16:02:24		- Reset
+5-7-2022 16:02:24		-Loading features
+5-7-2022 16:02:24		-Loading drivers
+5-7-2022 16:02:25		-Loading unattended
+5-7-2022 16:02:25	- Gather unattended options
+5-7-2022 16:02:25		-Loading tweaks
+5-7-2022 16:02:25		-Loading apply options
+5-7-2022 16:02:25	 - Gather image list
+5-7-2022 16:02:25	Save settings
+5-7-2022 16:02:25	Load image list
+5-7-2022 16:02:25	Windows 10 Professional (21H2) x64 - 10.0.19044.1288
+5-7-2022 16:02:25		-Loading execution list
+5-7-2022 16:02:25	- Gather existing Post-Setup Machine
+5-7-2022 16:02:25	- Gather existing Post-Setup User
+5-7-2022 16:02:25		-Loading registry list
+5-7-2022 16:02:25		-Loading updates
+5-7-2022 16:02:25	# 
+5-7-2022 16:02:25	# 
+5-7-2022 16:02:25	- UnReg (di:0)
+5-7-2022 16:02:27	Cleaning
+5-7-2022 16:02:27	Waiting for other operations to finish
+5-7-2022 16:02:27	Completed - Image load - Preset load 'Auto-saved 071fc4be'
+5-7-2022 16:02:28	 - Gather image list
+5-7-2022 16:02:28	Save settings
+5-7-2022 16:02:28	Load image list
+5-7-2022 16:02:29	Windows 10 Professional (21H2) x64 - 10.0.19044.1288
+5-7-2022 16:04:11	Load preset: project zero privacy and clean
+5-7-2022 16:04:11		-Loading components
+5-7-2022 16:04:11	- Apply compatibility options
+5-7-2022 16:04:11		- Reset
+5-7-2022 16:04:11		-Loading features
+5-7-2022 16:04:11		-Loading drivers
+5-7-2022 16:04:11		-Loading unattended
+5-7-2022 16:04:11	- Gather unattended options
+5-7-2022 16:04:11		-Loading tweaks
+5-7-2022 16:04:11		-Loading apply options
+5-7-2022 16:04:11	 - Gather image list
+5-7-2022 16:04:11	Save settings
+5-7-2022 16:04:11	Load image list
+5-7-2022 16:04:11	Windows 10 Professional (21H2) x64 - 10.0.19044.1288
+5-7-2022 16:04:11		-Loading execution list
+5-7-2022 16:04:11	- Gather existing Post-Setup Machine
+5-7-2022 16:04:11	- Gather existing Post-Setup User
+5-7-2022 16:04:11		-Loading registry list
+5-7-2022 16:04:11		-Loading updates
+5-7-2022 16:04:11	# 
+5-7-2022 16:04:11	# 
+5-7-2022 16:04:11	- UnReg (di:0)
+5-7-2022 16:04:12	Completed - Preset load 'project zero privacy and clean'
+5-7-2022 16:04:18	- Listing post-setup executions
+5-7-2022 16:10:41	Start applying all of the pending changes.
+5-7-2022 16:10:41	# 
+5-7-2022 16:10:41	Save settings
+5-7-2022 16:10:41	- Save preset: Auto-saved 071fc4be
+5-7-2022 16:10:42	Unattended: root
+5-7-2022 16:10:42	Unattended: pass 'Generalize'
+5-7-2022 16:10:42	Unattended: pass 'OOBE (Final install options)'
+5-7-2022 16:10:42	Unattended: pass 'Specialize'
+5-7-2022 16:10:42	Unattended: pass 'WindowsPE (Setup options)'
+5-7-2022 16:10:42	Unattended: root
+5-7-2022 16:10:42	Unattended: pass 'Generalize'
+5-7-2022 16:10:42	Unattended: pass 'OOBE (Final install options)'
+5-7-2022 16:10:42	Unattended: pass 'Specialize'
+5-7-2022 16:10:42	Unattended: pass 'WindowsPE (Setup options)'
+5-7-2022 16:10:42	 - Gather image list
+5-7-2022 16:10:42	Save settings
+5-7-2022 16:10:42	Load image list
+5-7-2022 16:10:42	Windows 10 Professional (21H2) x64 - 10.0.19044.1288
+5-7-2022 16:10:43	# 
+5-7-2022 16:10:43	Windows 10 Professional (21H2) x64 - 10.0.19044.1288
+5-7-2022 16:10:43	# 
+5-7-2022 16:10:43	# 
+5-7-2022 16:10:43	# 
+5-7-2022 16:10:43	RCT
+5-7-2022 16:10:43	Preparing data
+5-7-2022 16:10:43	 - Pre-loading selected data
+5-7-2022 16:10:43	- section 1
+5-7-2022 16:10:43	- section 2
+5-7-2022 16:10:44	- section 3
+5-7-2022 16:10:45	- section 4
+5-7-2022 16:10:45	- section 4.1
+5-7-2022 16:10:45	- section 5
+5-7-2022 16:10:45	- section 6
+5-7-2022 16:10:45	- section 7
+5-7-2022 16:10:45	- section 8
+5-7-2022 16:10:45	- section 9
+5-7-2022 16:10:46	Preparing data
+5-7-2022 16:10:46	 - RDS
+5-7-2022 16:10:46	Stack %%SystemRoot%%\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.1220_none_7e21bc567c7ed16b
+5-7-2022 16:10:46	RDS clean 0
+5-7-2022 16:10:46	 - Collect
+5-7-2022 16:11:01	 - PMR
+5-7-2022 16:11:01	RAEC
+5-7-2022 16:11:01	Functionality guard
+5-7-2022 16:11:01	- static
+5-7-2022 16:11:01	- kept components
+5-7-2022 16:11:07	Disable cw
+5-7-2022 16:11:09	Removing components
+5-7-2022 16:11:09	- UnReg (di:1)
+5-7-2022 16:11:11	Removing: Microsoft  |  tpmvsc.inf
+5-7-2022 16:11:11	Done
+5-7-2022 16:11:11	Removing: Microsoft  |  wdmvsc.inf
+5-7-2022 16:11:12	Done - 0.1 MB
+5-7-2022 16:11:12	Removing: Microsoft  |  wfcvsc.inf
+5-7-2022 16:11:12	Done - 0.04 MB
+5-7-2022 16:11:12	Removing: Microsoft  |  wgencounter.inf
+5-7-2022 16:11:12	Done - 0.05 MB
+5-7-2022 16:11:12	Removing: Microsoft  |  whvcrash.inf
+5-7-2022 16:11:12	Done - 0.07 MB
+5-7-2022 16:11:12	Removing: Microsoft  |  whyperkbd.inf
+5-7-2022 16:11:12	Done - 0.06 MB
+5-7-2022 16:11:12	Removing: Microsoft  |  wnetvsc.inf
+5-7-2022 16:11:12	Done - 0.6 MB
+5-7-2022 16:11:12	Removing: Microsoft  |  ws3cap.inf
+5-7-2022 16:11:12	Done - 0.04 MB
+5-7-2022 16:11:12	Removing: Microsoft  |  wstorflt.inf
+5-7-2022 16:11:12	Done - 0.1 MB
+5-7-2022 16:11:12	Removing: Microsoft  |  wstorvsc.inf
+5-7-2022 16:11:12	Done - 0.09 MB
+5-7-2022 16:11:12	Removing: Microsoft  |  wvmbushid.inf
+5-7-2022 16:11:12	Done - 0.08 MB
+5-7-2022 16:11:12	Removing: Microsoft  |  wvmbusr.inf
+5-7-2022 16:11:12	Done
+5-7-2022 16:11:12	Removing: Microsoft  |  wvmbusvideo.inf
+5-7-2022 16:11:12	Done - 0.09 MB
+5-7-2022 16:11:12	Removing: Microsoft  |  wvmgid.inf
+5-7-2022 16:11:12	Done - 0.04 MB
+5-7-2022 16:11:12	Removing: Microsoft  |  wvmic.inf
+5-7-2022 16:11:12	Done - 0.01 MB
+5-7-2022 16:11:12	Removing: Microsoft  |  wvmic_ext.inf
+5-7-2022 16:11:12	Done - 0.01 MB
+5-7-2022 16:11:12	Removing: Microsoft  |  wvpci.inf
+5-7-2022 16:11:12	Done - 0.2 MB
+5-7-2022 16:11:12	Removing: Add Folder Suggestions dialog
+5-7-2022 16:11:12	Preparing DISM
+5-7-2022 16:11:12	- DI
+5-7-2022 16:11:12	DM1
+5-7-2022 16:11:12	- UnReg (di:1)
+5-7-2022 16:11:18	Done - 0.8 MB
+5-7-2022 16:11:18	Removing: App Resolver
+5-7-2022 16:11:18	Done - 0.5 MB
+5-7-2022 16:11:18	Removing: AsyncTextService
+5-7-2022 16:11:18	Done - 0.6 MB
+5-7-2022 16:11:18	Removing: Call
+5-7-2022 16:11:19	Done - 1.3 MB
+5-7-2022 16:11:19	Removing: Captive Portal Flow
+5-7-2022 16:11:19	Done - 0.7 MB
+5-7-2022 16:11:19	Removing: Credential Dialog
+5-7-2022 16:11:19	Done - 0.4 MB
+5-7-2022 16:11:19	Removing: Desktop App Web Viewer
+5-7-2022 16:11:19	Done - 0.1 MB
+5-7-2022 16:11:19	Removing: File Picker
+5-7-2022 16:11:19	Done - 1.0 MB
+5-7-2022 16:11:19	Removing: Network Connection Flow
+5-7-2022 16:11:19	Done - 0.6 MB
+5-7-2022 16:11:19	Removing: Network Connectivity Status Indicator (NCSI)
+5-7-2022 16:11:19	Done - 0.2 MB
+5-7-2022 16:11:19	Removing: PinningConfirmationDialog
+5-7-2022 16:11:20	Done - 0.3 MB
+5-7-2022 16:11:20	Removing: Safely Remove Device
+5-7-2022 16:11:20	Done - 0.3 MB
+5-7-2022 16:11:20	Removing: SmartScreen
+5-7-2022 16:11:20	Done - 3.2 MB
+5-7-2022 16:11:20	Removing: Toets maken
+5-7-2022 16:11:20	Done - 1.4 ¦ 0.002 MB
+5-7-2022 16:11:20	Removing: Windows Shell Experience
+5-7-2022 16:11:21	Done - 3.3 MB
+5-7-2022 16:11:21	Removing: Work or school account
+5-7-2022 16:11:21	Done - 6.0 MB
+5-7-2022 16:11:21	Removing: Application Identity Service
+5-7-2022 16:11:21	Done - 1.6 ¦ 0.007 MB
+5-7-2022 16:11:21	Removing: Delivery Optimization
+5-7-2022 16:11:21	Done - 2.6 MB
+5-7-2022 16:11:21	Removing: Desktop Activity Moderator (DAM)
+5-7-2022 16:11:21	Done - 0.09 ¦ 0.000777 MB
+5-7-2022 16:11:21	Removing: Device Lockdown (Embedded Experience)
+5-7-2022 16:11:23	Done - 2.6 ¦ 0.10 MB
+5-7-2022 16:11:23	Removing: Device Update Center
+5-7-2022 16:11:23	Done - 0.7 ¦ 0.004 MB
+5-7-2022 16:11:23	Removing: Display Switch
+5-7-2022 16:11:23	Done - 1.8 MB
+5-7-2022 16:11:23	Removing: Dolby Atmos codec pack
+5-7-2022 16:11:23	Done - 2.0 MB
+5-7-2022 16:11:23	Removing: Ease Of Access Themes
+5-7-2022 16:11:23	Done - 0.010 MB
+5-7-2022 16:11:23	Removing: File Revocation Manager - 32 bit
+5-7-2022 16:11:23	Done - 0.6 MB
+5-7-2022 16:11:23	Removing: Hyper-V Guest
+5-7-2022 16:11:23	Done - 0.7 MB
+5-7-2022 16:11:23	Removing: Microsoft Edge (Chromium)
+5-7-2022 16:11:23	Terminating process: msedge.exe
+5-7-2022 16:11:23	Terminating process: msedge.exe
+5-7-2022 16:11:23	Terminating process: msedge.exe
+5-7-2022 16:11:23	Terminating process: msedge.exe
+5-7-2022 16:11:23	Terminating process: msedge.exe
+5-7-2022 16:11:23	Terminating process: msedge.exe
+5-7-2022 16:11:23	Terminating process: msedge.exe
+5-7-2022 16:11:28	Done - 432.6 MB
+5-7-2022 16:11:28	Removing: Mouse Pointers (Accessibility tools)
+5-7-2022 16:11:28	Done - 2.3 MB
+5-7-2022 16:11:28	Removing: MultiPoint Connector
+5-7-2022 16:11:28	Done - 0.2 ¦ 0.03 MB
+5-7-2022 16:11:28	Removing: Narrator
+5-7-2022 16:11:28	Done - 0.5 MB
+5-7-2022 16:11:28	Removing: Natural Authentication
+5-7-2022 16:11:28	Done - 0.5 ¦ 0.001 MB
+5-7-2022 16:11:28	Removing: NDIS Packet Capturing (NDISCAP)
+5-7-2022 16:11:28	Done - 0.7 MB
+5-7-2022 16:11:28	Removing: NTVDM 16 bit subsystem
+5-7-2022 16:11:28	Done - 0.3 ¦ 0.000305 MB
+5-7-2022 16:11:28	Removing: PIN sign-in support
+5-7-2022 16:11:28	Done - 0.3 MB
+5-7-2022 16:11:28	Removing: Private Character Editor
+5-7-2022 16:11:28	Done - 0.7 MB
+5-7-2022 16:11:28	Removing: Proximity
+5-7-2022 16:11:28	Done - 1.6 MB
+5-7-2022 16:11:28	Removing: Remote Desktop Client - 32 bit
+5-7-2022 16:11:28	Done - 1.2 MB
+5-7-2022 16:11:28	Removing: Rights Management support
+5-7-2022 16:11:29	Done - 13.0 MB
+5-7-2022 16:11:29	Removing: Screen Magnifier
+5-7-2022 16:11:29	Done - 1.2 MB
+5-7-2022 16:11:29	Removing: Simple Network Management Protocol (SNMP)
+5-7-2022 16:11:29	Done - 0.4 ¦ 0.02 MB
+5-7-2022 16:11:29	Removing: Static Font Cache
+5-7-2022 16:11:29	Done
+5-7-2022 16:11:29	Removing: Telnet Client
+5-7-2022 16:11:29	Done - 0.07 ¦ 0.02 MB
+5-7-2022 16:11:29	Removing: TFTP client
+5-7-2022 16:11:29	Done - 0.06 ¦ 0.02 MB
+5-7-2022 16:11:29	Removing: User Data Access
+5-7-2022 16:11:29	Done - 3.5 MB
+5-7-2022 16:11:29	Removing: Wi-Fi Network Manager (Wi-Fi Sense)
+5-7-2022 16:11:29	Done - 1.0 MB
+5-7-2022 16:11:29	Removing: Windows Insider Hub
+5-7-2022 16:11:29	Done - 1.7 MB
+5-7-2022 16:11:29	Removing: Windows Remote Management (WS-Management)
+5-7-2022 16:11:29	Done - 7.6 MB
+5-7-2022 16:11:29	Removing: Contact Data
+5-7-2022 16:11:29	Done - 2.3 MB
+5-7-2022 16:11:29	Removing: Legacy components
+5-7-2022 16:11:29	Done - 0.3 ¦ 0.08 MB
+5-7-2022 16:11:29	Removing: Microsoft Passport
+5-7-2022 16:11:30	Done - 7.3 ¦ 0.002 ¦ 0.09 MB
+5-7-2022 16:11:30	Removing: User Data Storage
+5-7-2022 16:11:30	Done - 12.7 MB
+5-7-2022 16:11:30	 - DCL
+5-7-2022 16:11:30	- UnReg (di:0)
+5-7-2022 16:11:32	- DS
+5-7-2022 16:11:32	Deleting temporary files: D:\kut temp\NLTmpScratch\NLTmpS01
+5-7-2022 16:11:32	# 
+5-7-2022 16:11:32	Applying - Tweaks
+5-7-2022 16:11:32	# 
+5-7-2022 16:11:32	CUCT
+5-7-2022 16:11:33	Cleaning leftover entries
+5-7-2022 16:11:33	Cleaning empty directories
+5-7-2022 16:11:33	# 
+5-7-2022 16:11:36	# 
+5-7-2022 16:11:36	# 
+5-7-2022 16:11:36	# 
+5-7-2022 16:11:36	Applying - Unattended setup
+5-7-2022 16:11:36	Unattended: start
+5-7-2022 16:11:36	Unattended: root
+5-7-2022 16:11:36	Unattended: pass 'Generalize'
+5-7-2022 16:11:36	Unattended: pass 'OOBE (Final install options)'
+5-7-2022 16:11:36	Unattended: pass 'Specialize'
+5-7-2022 16:11:36	Unattended: pass 'WindowsPE (Setup options)'
+5-7-2022 16:11:36	Unattended: saving file
+5-7-2022 16:11:36	Unattended: done, code 0
+5-7-2022 16:11:36	# 
+5-7-2022 16:11:36	Applying - Post-Setup tasks
+5-7-2022 16:11:36	Integrating: D:\Downloads\Waterfox.G4.1.3.1.Setup.exe
+5-7-2022 16:11:36	# 
+5-7-2022 16:11:36	Total removed:  94.5 MB Hard links  /  432.9 MB Files  /  0.09 MB ISO Files
+5-7-2022 16:11:36	- UnReg (di:1)
+5-7-2022 16:11:40	- UnReg (di:0)
+5-7-2022 16:11:44	Saving changes to the image - D:\win\Windows\Sources\install.wim - Windows 10 Professional (21H2) x64 - 10.0.19044.1288 (en-US)
+5-7-2022 16:11:44	- UnReg (di:1)
+5-7-2022 16:15:15	Deleting temporary files: D:\kut temp\NLTmpMnt01
+5-7-2022 16:15:15	Deleting temporary files: D:\kut temp\NLTmpMnt01_wt
+5-7-2022 16:15:15	Cleaning mount directory
+5-7-2022 16:15:15	# 
+5-7-2022 16:15:15	Exporting D:\win\Windows\Sources\install.wim:1 -> D:\win\Windows\Sources\install.esd
+5-7-2022 16:15:15	 - WL Export
+5-7-2022 16:15:20	Image compression: 2
+5-7-2022 16:26:41	# 
+5-7-2022 16:26:41	# 
+5-7-2022 16:26:41	Create ISO
+5-7-2022 16:26:41	 - Source Image root D:\win\Windows
+5-7-2022 16:26:41	 - Automatic mode, destination D:\clean\projectzerocleanandprivacy_ver2.iso, label spacetm
+5-7-2022 16:26:41	 - Create ISO thread D:\clean\projectzerocleanandprivacy_ver2.iso
+5-7-2022 16:26:41	 - Found BIOS boot sector
+5-7-2022 16:26:41	 - Found EFI boot sector
+5-7-2022 16:26:41	 - Adding BIOS boot sector
+5-7-2022 16:26:41	 - Adding EFI boot sector
+5-7-2022 16:26:41	 - Create file stream
+5-7-2022 16:26:41	Preparing files for the ISO image. (D:\win\Windows)
+5-7-2022 16:26:45	Saving ISO image: D:\clean\projectzerocleanandprivacy_ver2.iso
+5-7-2022 16:27:15	# 
+5-7-2022 16:27:15	Cleaning - TD
+5-7-2022 16:27:15	- UnReg (di:0)
+5-7-2022 16:27:15	Deleting temporary files: D:\kut temp\NLTmpScratch
+5-7-2022 16:27:16	Load image list
+5-7-2022 16:27:16	Cannot find image path: D:\win\Windows\Sources\install.wim
+5-7-2022 16:27:16	- UnReg (di:0)
+5-7-2022 16:27:16	Cleaning
+5-7-2022 16:27:16	Waiting for other operations to finish
+5-7-2022 16:27:17	Completed - Windows 10 Professional (21H2) x64 - 10.0.19044.1288 - ISO image: D:\clean\projectzerocleanandprivacy_ver2.iso (spacetm) 3214.8 MB [16m 34s]
+5-7-2022 16:27:24	 - Gather image list
+5-7-2022 16:27:24	Save settings
+5-7-2022 16:27:24	Load image list
+5-7-2022 16:27:24	Cannot find image path: D:\win\Windows\Sources\install.wim
+5-7-2022 16:27:24	Cannot read image info, missing file: D:\win\Windows\Sources\install.wim
+5-7-2022 16:49:13	Exporting D:\win\Windows\Sources\install.esd:1 -> D:\win\Windows\Sources\install.wim
+5-7-2022 16:49:13	 - WG Export
+5-7-2022 16:49:13	GWH
+5-7-2022 16:49:13	WIM error_23: 11
+5-7-2022 16:49:19	Image compression: 2
+5-7-2022 16:49:19	GWH
+5-7-2022 16:53:24	Deleting temporary files: D:\kut temp\NLTmpWEDstd14cf1df1
+5-7-2022 16:53:24	Deleting temporary files: D:\kut temp\NLTmpWESrcd14cf1df1
+5-7-2022 16:53:24	# 
+5-7-2022 16:53:24	Remove item from the list: 1. Windows 10 Pro
+5-7-2022 16:53:24	 - Forget edition 1. Windows 10 Pro
+5-7-2022 16:53:24	Cleaning mount directory
+5-7-2022 16:53:24	Cleaning mount directory
+5-7-2022 16:53:24	Completed - Cleaning mount directory
+5-7-2022 16:53:24	- UnReg (di:0)
+5-7-2022 16:53:24	Cleaning
+5-7-2022 16:53:24	Waiting for other operations to finish
+5-7-2022 16:53:25	Completed
+5-7-2022 17:18:41	 - Gather image list
+5-7-2022 17:18:41	Save settings
+5-7-2022 17:18:41	Load image list
+5-7-2022 17:18:42	Image load: Windows 10 Pro - D:\win\Windows\Sources\install.wim
+5-7-2022 17:18:42	Mounting image: D:\win\Windows\Sources\install.wim - Windows 10 Pro
+5-7-2022 17:18:42		Mount dir: D:\kut temp\NLTmpMnt01
+5-7-2022 17:18:42	GWH
+5-7-2022 17:22:45	# 
+5-7-2022 17:22:46	Windows 10 Professional (21H2) x64 - 10.0.19044.1288
+5-7-2022 17:22:46	Reading data: Windows 10 Professional (21H2) x64 - 10.0.19044.1288 (en-US)
+5-7-2022 17:22:46	- Gather hardware lists
+5-7-2022 17:22:46	- Gather packages
+5-7-2022 17:22:48	 - Package sorting
+5-7-2022 17:22:48	 - Connecting PBC
+5-7-2022 17:22:48	- Filtering packages
+5-7-2022 17:22:50	- Gather existing drivers
+5-7-2022 17:22:51	- Gather services
+5-7-2022 17:22:55	- Gather driver services
+5-7-2022 17:22:57	- Gather scheduled tasks
+5-7-2022 17:22:58	- Gather components
+5-7-2022 17:22:58	- Gather languages
+5-7-2022 17:22:58	- Gather keyboards
+5-7-2022 17:22:58	- Gather fonts
+5-7-2022 17:22:59	- Connect drivers
+5-7-2022 17:22:59	- Gather tweaks
+5-7-2022 17:23:00	- Gather unattended data
+5-7-2022 17:23:00		- Timezones
+5-7-2022 17:23:00		- Keyboards
+5-7-2022 17:23:00		- Locales
+5-7-2022 17:23:00	- Gather unattended options
+5-7-2022 17:23:00	# 
+5-7-2022 17:23:00	Load preset: Auto-saved 071fc4be
+5-7-2022 17:23:00		-Loading components
+5-7-2022 17:23:01	- Apply compatibility options
+5-7-2022 17:23:01		- Reset
+5-7-2022 17:23:01		-Loading features
+5-7-2022 17:23:01		-Loading drivers
+5-7-2022 17:23:01		-Loading unattended
+5-7-2022 17:23:01	- Gather unattended options
+5-7-2022 17:23:01		-Loading tweaks
+5-7-2022 17:23:01		-Loading apply options
+5-7-2022 17:23:01	 - Gather image list
+5-7-2022 17:23:01	Save settings
+5-7-2022 17:23:01	Load image list
+5-7-2022 17:23:01	Windows 10 Professional (21H2) x64 - 10.0.19044.1288
+5-7-2022 17:23:02		-Loading execution list
+5-7-2022 17:23:02	- Gather existing Post-Setup Machine
+5-7-2022 17:23:02	- Gather existing Post-Setup User
+5-7-2022 17:23:02	Existing item: Waterfox.G4.1.3.1.Setup.exe
+5-7-2022 17:23:02		-Loading registry list
+5-7-2022 17:23:02		-Loading updates
+5-7-2022 17:23:02	# 
+5-7-2022 17:23:02	# 
+5-7-2022 17:23:05	- UnReg (di:0)
+5-7-2022 17:23:05	Cleaning
+5-7-2022 17:23:05	Waiting for other operations to finish
+5-7-2022 17:23:06	Completed - Image load - Preset load 'Auto-saved 071fc4be'
+5-7-2022 17:23:06	 - Gather image list
+5-7-2022 17:23:06	Save settings
+5-7-2022 17:23:06	Load image list
+5-7-2022 17:23:06	Windows 10 Professional (21H2) x64 - 10.0.19044.1288
+5-7-2022 17:23:07	- Listing post-setup executions
+5-7-2022 17:23:13	- Listing components
+5-7-2022 17:23:18	Load preset: project zero privacy and clean
+5-7-2022 17:23:18		-Loading components
+5-7-2022 17:23:18	- Apply compatibility options
+5-7-2022 17:23:18		- Reset
+5-7-2022 17:23:18	- Listing components
+5-7-2022 17:23:19		-Loading features
+5-7-2022 17:23:19		-Loading drivers
+5-7-2022 17:23:19		-Loading unattended
+5-7-2022 17:23:19	- Gather unattended options
+5-7-2022 17:23:19		-Loading tweaks
+5-7-2022 17:23:19		-Loading apply options
+5-7-2022 17:23:19	 - Gather image list
+5-7-2022 17:23:19	Save settings
+5-7-2022 17:23:19	Load image list
+5-7-2022 17:23:19	Windows 10 Professional (21H2) x64 - 10.0.19044.1288
+5-7-2022 17:23:19		-Loading execution list
+5-7-2022 17:23:19	- Gather existing Post-Setup Machine
+5-7-2022 17:23:19	- Gather existing Post-Setup User
+5-7-2022 17:23:19		-Loading registry list
+5-7-2022 17:23:19		-Loading updates
+5-7-2022 17:23:19	# 
+5-7-2022 17:23:19	# 
+5-7-2022 17:23:19	- UnReg (di:0)
+5-7-2022 17:23:19	Completed - Preset load 'project zero privacy and clean'
+5-7-2022 17:28:33	- Save preset: project zero privacy and clean
+5-7-2022 17:28:33	Unattended: root
+5-7-2022 17:28:33	Unattended: pass 'Generalize'
+5-7-2022 17:28:33	Unattended: pass 'OOBE (Final install options)'
+5-7-2022 17:28:33	Unattended: pass 'Specialize'
+5-7-2022 17:28:33	Unattended: pass 'WindowsPE (Setup options)'
+5-7-2022 17:34:14	- Save preset: with firefox
+5-7-2022 17:34:15	Unattended: root
+5-7-2022 17:34:15	Unattended: pass 'Generalize'
+5-7-2022 17:34:15	Unattended: pass 'OOBE (Final install options)'
+5-7-2022 17:34:15	Unattended: pass 'Specialize'
+5-7-2022 17:34:15	Unattended: pass 'WindowsPE (Setup options)'
+5-7-2022 17:34:43	Start applying all of the pending changes.
+5-7-2022 17:34:43	# 
+5-7-2022 17:34:43	Save settings
+5-7-2022 17:34:43	- Save preset: Auto-saved 071fc4be
+5-7-2022 17:34:43	Unattended: root
+5-7-2022 17:34:43	Unattended: pass 'Generalize'
+5-7-2022 17:34:43	Unattended: pass 'OOBE (Final install options)'
+5-7-2022 17:34:43	Unattended: pass 'Specialize'
+5-7-2022 17:34:43	Unattended: pass 'WindowsPE (Setup options)'
+5-7-2022 17:34:43	Unattended: root
+5-7-2022 17:34:43	Unattended: pass 'Generalize'
+5-7-2022 17:34:43	Unattended: pass 'OOBE (Final install options)'
+5-7-2022 17:34:43	Unattended: pass 'Specialize'
+5-7-2022 17:34:43	Unattended: pass 'WindowsPE (Setup options)'
+5-7-2022 17:34:43	 - Gather image list
+5-7-2022 17:34:43	Save settings
+5-7-2022 17:34:43	Load image list
+5-7-2022 17:34:44	Windows 10 Professional (21H2) x64 - 10.0.19044.1288
+5-7-2022 17:34:44	# 
+5-7-2022 17:34:44	Windows 10 Professional (21H2) x64 - 10.0.19044.1288
+5-7-2022 17:34:44	# 
+5-7-2022 17:34:44	# 
+5-7-2022 17:34:44	# 
+5-7-2022 17:34:44	RCT
+5-7-2022 17:34:44	Preparing data
+5-7-2022 17:34:44	 - Pre-loading selected data
+5-7-2022 17:34:44	- section 1
+5-7-2022 17:34:45	- section 2
+5-7-2022 17:34:45	- section 3
+5-7-2022 17:34:46	- section 4
+5-7-2022 17:34:46	- section 4.1
+5-7-2022 17:34:46	- section 5
+5-7-2022 17:34:46	- section 6
+5-7-2022 17:34:46	- section 7
+5-7-2022 17:34:47	- section 8
+5-7-2022 17:34:47	- section 9
+5-7-2022 17:34:47	Preparing data
+5-7-2022 17:34:47	 - RDS
+5-7-2022 17:34:47	Stack %%SystemRoot%%\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.1220_none_7e21bc567c7ed16b
+5-7-2022 17:34:47	RDS clean 0
+5-7-2022 17:34:47	 - Collect
+5-7-2022 17:35:06	 - PMR
+5-7-2022 17:35:06	RAEC
+5-7-2022 17:35:06	Functionality guard
+5-7-2022 17:35:06	- static
+5-7-2022 17:35:06	- kept components
+5-7-2022 17:35:12	Disable cw
+5-7-2022 17:35:14	Removing components
+5-7-2022 17:35:14	- UnReg (di:1)
+5-7-2022 17:35:16	Removing: Microsoft  |  tpmvsc.inf
+5-7-2022 17:35:16	Done
+5-7-2022 17:35:16	Removing: Microsoft  |  wvmbusr.inf
+5-7-2022 17:35:17	Done
+5-7-2022 17:35:17	Removing: Accessibility tools (Ease of Access)
+5-7-2022 17:35:17	Done - 9.2 ¦ 0.000542 MB
+5-7-2022 17:35:17	Removing: Folder Redirection
+5-7-2022 17:35:18	Done - 0.6 MB
+5-7-2022 17:35:18	Removing: Memory Diagnostic
+5-7-2022 17:35:18	Done - 2.5 ¦ 0.002 ¦ 1.0 MB
+5-7-2022 17:35:18	Removing: Static Font Cache
+5-7-2022 17:35:18	Done
+5-7-2022 17:35:18	# 
+5-7-2022 17:35:18	Applying - Tweaks
+5-7-2022 17:35:18	# 
+5-7-2022 17:35:18	CUCT
+5-7-2022 17:35:18	Cleaning leftover entries
+5-7-2022 17:35:18	Cleaning empty directories
+5-7-2022 17:35:18	# 
+5-7-2022 17:35:21	# 
+5-7-2022 17:35:21	# 
+5-7-2022 17:35:21	Applying - Registry
+5-7-2022 17:35:21	- UnReg (di:1)
+5-7-2022 17:35:24	Integrating: D:\Downloads\14 Registry Tweaks.reg
+5-7-2022 17:35:24	Integrating: D:\Downloads\16 Disable Game Bar.reg
+5-7-2022 17:35:24	Integrating: D:\Downloads\Disable-Windows-10-Ads-registry-www.regfiles.net.reg
+5-7-2022 17:35:24	# 
+5-7-2022 17:35:24	Applying - Unattended setup
+5-7-2022 17:35:25	Image load: Microsoft Windows Setup (x64) - D:\win\Windows\Sources\boot.wim
+5-7-2022 17:35:25	Mounting image: D:\win\Windows\Sources\boot.wim - Microsoft Windows Setup (x64)
+5-7-2022 17:35:25		Mount dir: D:\kut temp\NLTmpMnt02
+5-7-2022 17:35:25	GWH
+5-7-2022 17:36:03	Unloading image, discarding changes - D:\win\Windows\Sources\boot.wim - Microsoft Windows Setup (x64)
+5-7-2022 17:36:03	- UnReg (di:1)
+5-7-2022 17:36:31	Deleting temporary files: D:\kut temp\NLTmpMnt02
+5-7-2022 17:36:31	Deleting temporary files: D:\kut temp\NLTmpMnt02_wt
+5-7-2022 17:36:31	Cleaning mount directory
+5-7-2022 17:36:32	# 
+5-7-2022 17:36:32	Applying - Post-Setup tasks
+5-7-2022 17:36:32	Integrating: D:\Downloads\Firefox Setup 102.0.msi
+5-7-2022 17:36:32	# 
+5-7-2022 17:36:32	Total removed:  12.3 MB Hard links  /  0.002 MB Files  /  1.0 MB ISO Files
+5-7-2022 17:36:32	- UnReg (di:1)
+5-7-2022 17:36:34	- UnReg (di:0)
+5-7-2022 17:36:39	Saving changes to the image - D:\win\Windows\Sources\install.wim - Windows 10 Professional (21H2) x64 - 10.0.19044.1288 (en-US)
+5-7-2022 17:36:39	- UnReg (di:1)
+5-7-2022 17:40:24	Deleting temporary files: D:\kut temp\NLTmpMnt01
+5-7-2022 17:40:24	Deleting temporary files: D:\kut temp\NLTmpMnt01_wt
+5-7-2022 17:40:24	Cleaning mount directory
+5-7-2022 17:40:24	# 
+5-7-2022 17:40:24	Exporting D:\win\Windows\Sources\install.wim:1 -> D:\win\Windows\Sources\install.esd
+5-7-2022 17:40:24	 - WL Export
+5-7-2022 17:40:28	Image compression: 2
+5-7-2022 17:51:08	# 
+5-7-2022 17:51:08	# 
+5-7-2022 17:51:08	Create ISO
+5-7-2022 17:51:08	 - Source Image root D:\win\Windows
+5-7-2022 17:51:08	 - Automatic mode, destination D:\clean\projectzerocleanandprivacy_ver3.iso, label spacetm
+5-7-2022 17:51:08	 - Create ISO thread D:\clean\projectzerocleanandprivacy_ver3.iso
+5-7-2022 17:51:08	 - Found BIOS boot sector
+5-7-2022 17:51:08	 - Found EFI boot sector
+5-7-2022 17:51:08	 - Adding BIOS boot sector
+5-7-2022 17:51:08	 - Adding EFI boot sector
+5-7-2022 17:51:08	 - Create file stream
+5-7-2022 17:51:08	Preparing files for the ISO image. (D:\win\Windows)
+5-7-2022 17:51:12	Saving ISO image: D:\clean\projectzerocleanandprivacy_ver3.iso
+5-7-2022 17:51:40	# 
+5-7-2022 17:51:40	Cleaning - TD
+5-7-2022 17:51:40	- UnReg (di:0)
+5-7-2022 17:51:40	Deleting temporary files: D:\kut temp\NLTmpScratch
+5-7-2022 17:51:41	Load image list
+5-7-2022 17:51:41	Cannot find image path: D:\win\Windows\Sources\install.wim
+5-7-2022 17:51:41	- UnReg (di:0)
+5-7-2022 17:51:41	Cleaning
+5-7-2022 17:51:41	Waiting for other operations to finish
+5-7-2022 17:51:45	Completed - Windows 10 Professional (21H2) x64 - 10.0.19044.1288 - ISO image: D:\clean\projectzerocleanandprivacy_ver3.iso (spacetm) 3203.2 MB [16m 58s]
+5-7-2022 17:52:33	 - Gather image list
+5-7-2022 17:52:33	Save settings
+5-7-2022 17:52:33	Load image list
+5-7-2022 17:52:33	Cannot find image path: D:\win\Windows\Sources\install.wim
+5-7-2022 17:52:33	Cannot read image info, missing file: D:\win\Windows\Sources\install.wim
+5-7-2022 18:48:34	Remove item from the list: D:\win\Windows
+5-7-2022 18:48:34	 - Forget folder D:\win\Windows
+5-7-2022 18:48:34	Cleaning mount directory
+5-7-2022 18:48:34	Cleaning mount directory
+5-7-2022 18:48:34	Completed - Cleaning mount directory
+5-7-2022 18:48:34	Cleaning mount directory
+5-7-2022 18:48:34	Cleaning mount directory
+5-7-2022 18:48:34	Completed - Cleaning mount directory
+5-7-2022 18:48:34	 - Gather image list
+5-7-2022 18:48:34	Save settings
+5-7-2022 18:48:34	Load image list
+5-7-2022 18:50:55	 - Gather image list
+5-7-2022 18:50:55	Save settings
+5-7-2022 18:50:55	Load image list
+5-7-2022 18:50:58	Exporting D:\GOED WERKEND\projectzerocleanandprivacy_ver2\Sources\install.esd:1 -> D:\GOED WERKEND\projectzerocleanandprivacy_ver2\Sources\install.wim
+5-7-2022 18:50:58	 - WG Export
+5-7-2022 18:50:58	GWH
+5-7-2022 18:50:58	WIM error_23: 11
+5-7-2022 18:51:03	Image compression: 2
+5-7-2022 18:51:03	GWH
+5-7-2022 18:54:57	Deleting temporary files: D:\kut temp\NLTmpWEDstedc0b3391
+5-7-2022 18:54:57	Deleting temporary files: D:\kut temp\NLTmpWESrcedc0b3391
+5-7-2022 18:54:57	# 
+5-7-2022 18:54:57	Remove item from the list: 1. Windows 10 Pro
+5-7-2022 18:54:57	 - Forget edition 1. Windows 10 Pro
+5-7-2022 18:54:57	Cleaning mount directory
+5-7-2022 18:54:57	Cleaning mount directory
+5-7-2022 18:54:57	Completed - Cleaning mount directory
+5-7-2022 18:54:57	- UnReg (di:0)
+5-7-2022 18:54:57	Cleaning
+5-7-2022 18:54:57	Waiting for other operations to finish
+5-7-2022 18:54:57	Completed
+5-7-2022 18:54:59	 - Gather image list
+5-7-2022 18:54:59	Save settings
+5-7-2022 18:54:59	Load image list
+5-7-2022 18:54:59	Image load: Windows 10 Pro - D:\GOED WERKEND\projectzerocleanandprivacy_ver2\Sources\install.wim
+5-7-2022 18:54:59	Mounting image: D:\GOED WERKEND\projectzerocleanandprivacy_ver2\Sources\install.wim - Windows 10 Pro
+5-7-2022 18:54:59		Mount dir: D:\kut temp\NLTmpMnt01
+5-7-2022 18:54:59	GWH
+5-7-2022 18:58:53	# 
+5-7-2022 18:58:55	Windows 10 Professional (21H2) x64 - 10.0.19044.1288
+5-7-2022 18:58:55	Reading data: Windows 10 Professional (21H2) x64 - 10.0.19044.1288 (en-US)
+5-7-2022 18:58:55	- Gather hardware lists
+5-7-2022 18:58:55	- Gather packages
+5-7-2022 18:58:57	 - Package sorting
+5-7-2022 18:58:57	 - Connecting PBC
+5-7-2022 18:58:57	- Filtering packages
+5-7-2022 18:58:59	- Gather existing drivers
+5-7-2022 18:59:00	- Gather services
+5-7-2022 18:59:03	- Gather driver services
+5-7-2022 18:59:03	- Gather scheduled tasks
+5-7-2022 18:59:04	- Gather components
+5-7-2022 18:59:04	- Gather languages
+5-7-2022 18:59:04	- Gather keyboards
+5-7-2022 18:59:05	- Gather fonts
+5-7-2022 18:59:06	- Connect drivers
+5-7-2022 18:59:06	- Gather tweaks
+5-7-2022 18:59:07	- Gather unattended data
+5-7-2022 18:59:07		- Timezones
+5-7-2022 18:59:10		- Keyboards
+5-7-2022 18:59:10		- Locales
+5-7-2022 18:59:10	- Gather unattended options
+5-7-2022 18:59:10	# 
+5-7-2022 18:59:10	Load preset: Auto-saved 3b938658
+5-7-2022 18:59:10		-Loading components
+5-7-2022 18:59:10	- Apply compatibility options
+5-7-2022 18:59:10		- Reset
+5-7-2022 18:59:10		-Loading features
+5-7-2022 18:59:10		-Loading drivers
+5-7-2022 18:59:10		-Loading unattended
+5-7-2022 18:59:10	- Gather unattended options
+5-7-2022 18:59:10		-Loading tweaks
+5-7-2022 18:59:10		-Loading execution list
+5-7-2022 18:59:10	- Gather existing Post-Setup Machine
+5-7-2022 18:59:10	- Gather existing Post-Setup User
+5-7-2022 18:59:10		-Loading registry list
+5-7-2022 18:59:10		-Loading apply options
+5-7-2022 18:59:10	 - Gather image list
+5-7-2022 18:59:10	Save settings
+5-7-2022 18:59:10	Load image list
+5-7-2022 18:59:10	Windows 10 Professional (21H2) x64 - 10.0.19044.1288
+5-7-2022 18:59:11		-Loading updates
+5-7-2022 18:59:11	# 
+5-7-2022 18:59:11	# 
+5-7-2022 18:59:11	- UnReg (di:0)
+5-7-2022 18:59:14	Cleaning
+5-7-2022 18:59:14	Waiting for other operations to finish
+5-7-2022 18:59:14	Completed - Image load
+5-7-2022 18:59:14	 - Gather image list
+5-7-2022 18:59:14	Save settings
+5-7-2022 18:59:14	Load image list
+5-7-2022 18:59:15	Windows 10 Professional (21H2) x64 - 10.0.19044.1288
+5-7-2022 18:59:26	- Listing post-setup executions
+5-7-2022 18:59:30	Drivers page fill
+5-7-2022 18:59:30	- Hardware list refresh
+5-7-2022 18:59:30	- Listing added drivers
+5-7-2022 18:59:30	- Listing hardware devices
+5-7-2022 18:59:31	- Listing hardware devices
+5-7-2022 19:00:26	- Listing hardware devices
+5-7-2022 19:00:28	- Listing hardware devices
+5-7-2022 19:01:00	- Listing hardware devices
+5-7-2022 19:01:04	- Listing hardware devices
+5-7-2022 19:01:09	Start applying all of the pending changes.
+5-7-2022 19:01:09	# 
+5-7-2022 19:01:09	Save settings
+5-7-2022 19:01:09	- Save preset: Auto-saved 3b938658
+5-7-2022 19:01:09	Unattended: root
+5-7-2022 19:01:09	Unattended: pass 'Generalize'
+5-7-2022 19:01:09	Unattended: pass 'OOBE (Final install options)'
+5-7-2022 19:01:09	Unattended: pass 'Specialize'
+5-7-2022 19:01:09	Unattended: pass 'WindowsPE (Setup options)'
+5-7-2022 19:01:09	Unattended: root
+5-7-2022 19:01:09	Unattended: pass 'Generalize'
+5-7-2022 19:01:09	Unattended: pass 'OOBE (Final install options)'
+5-7-2022 19:01:09	Unattended: pass 'Specialize'
+5-7-2022 19:01:09	Unattended: pass 'WindowsPE (Setup options)'
+5-7-2022 19:01:09	 - Gather image list
+5-7-2022 19:01:09	Save settings
+5-7-2022 19:01:09	Load image list
+5-7-2022 19:01:09	Windows 10 Professional (21H2) x64 - 10.0.19044.1288
+5-7-2022 19:01:10	# 
+5-7-2022 19:01:10	Windows 10 Professional (21H2) x64 - 10.0.19044.1288
+5-7-2022 19:01:10	# 
+5-7-2022 19:01:10	# 
+5-7-2022 19:01:10	# 
+5-7-2022 19:01:10	# 
+5-7-2022 19:01:10	Applying - Tweaks
+5-7-2022 19:01:10	# 
+5-7-2022 19:01:10	# 
+5-7-2022 19:01:10	# 
+5-7-2022 19:01:10	# 
+5-7-2022 19:01:10	# 
+5-7-2022 19:01:10	# 
+5-7-2022 19:01:10	Applying - Post-Setup tasks
+5-7-2022 19:01:10	# 
+5-7-2022 19:01:10	- UnReg (di:1)
+5-7-2022 19:01:12	- UnReg (di:0)
+5-7-2022 19:01:16	Saving changes to the image - D:\GOED WERKEND\projectzerocleanandprivacy_ver2\Sources\install.wim - Windows 10 Professional (21H2) x64 - 10.0.19044.1288 (en-US)
+5-7-2022 19:01:16	- UnReg (di:1)
+5-7-2022 19:05:13	Deleting temporary files: D:\kut temp\NLTmpMnt01
+5-7-2022 19:05:13	Deleting temporary files: D:\kut temp\NLTmpMnt01_wt
+5-7-2022 19:05:13	Cleaning mount directory
+5-7-2022 19:05:13	# 
+5-7-2022 19:05:13	Exporting D:\GOED WERKEND\projectzerocleanandprivacy_ver2\Sources\install.wim:1 -> D:\GOED WERKEND\projectzerocleanandprivacy_ver2\Sources\install.esd
+5-7-2022 19:05:13	 - WL Export
+5-7-2022 19:05:18	Image compression: 2
+5-7-2022 19:16:15	# 

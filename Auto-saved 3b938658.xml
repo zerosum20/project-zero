@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Preset isAutoSaved="true" xmlns="urn:schemas-nliteos-com:pn.v1">
+	<Date>07/05/2022 19:01:09</Date>
+	<AppInfo>
+		<Version>2.3.6.8804</Version>
+		<Licensed>Yes</Licensed>
+		<Protections>Yes</Protections>
+		<Host>Windows 10 Pro (21H2) x64 - 10.0.19044.1706 (nl-NL)</Host>
+	</AppInfo>
+	<ImageInfo>
+		<Version mode="offline">Windows 10 Professional (21H2) x64 - 10.0.19044.1288 (en-US)</Version>
+		<GUID>{555930E0-0168-4F4E-8916-1C1B50922791}</GUID>
+	</ImageInfo>
+	<RemoveComponents></RemoveComponents>
+	<Compatibility protectHidden="true">
+		<ComponentFeatures>
+			<Feature enabled="no">AppGuard</Feature>
+			<Feature enabled="no">Bluetooth</Feature>
+			<Feature enabled="no">CapFrameX</Feature>
+			<Feature enabled="yes">Discord</Feature>
+			<Feature enabled="yes">FileSharing</Feature>
+			<Feature enabled="no">Hyper-V</Feature>
+			<Feature enabled="no">iCloud</Feature>
+			<Feature enabled="yes">ManualSetup</Feature>
+			<Feature enabled="yes">OfficeSupport</Feature>
+			<Feature enabled="yes">AppxSupport</Feature>
+			<Feature enabled="yes">Netflix</Feature>
+			<Feature enabled="no">NetworkDiscovery</Feature>
+			<Feature enabled="no">NightLight</Feature>
+			<Feature enabled="yes">NvidiaSetup</Feature>
+			<Feature enabled="yes">OOBE</Feature>
+			<Feature enabled="yes">Recommended-All</Feature>
+			<Feature enabled="no">SamsungSwitch</Feature>
+			<Feature enabled="yes">ServicingStack</Feature>
+			<Feature enabled="yes">ShellSearchSupport</Feature>
+			<Feature enabled="yes">Spotify</Feature>
+			<Feature enabled="yes">DefaultFonts</Feature>
+			<Feature enabled="no">SafeMode</Feature>
+			<Feature enabled="yes">TeamViewer</Feature>
+			<Feature enabled="no">Recommended-Tablet</Feature>
+			<Feature enabled="yes">USBModem</Feature>
+			<Feature enabled="yes">USB</Feature>
+			<Feature enabled="yes">VideoPlayback</Feature>
+			<Feature enabled="no">VPN</Feature>
+			<Feature enabled="no">VisualStudio</Feature>
+			<Feature enabled="no">VSS</Feature>
+			<Feature enabled="yes">ActivationKMS</Feature>
+			<Feature enabled="yes">Activation</Feature>
+			<Feature enabled="yes">WindowsStore</Feature>
+			<Feature enabled="yes">WindowsUpdate</Feature>
+			<Feature enabled="yes">WLAN</Feature>
+		</ComponentFeatures>
+		<MachineDrivers>
+			<Machine enabled="yes">HostMachine</Machine>
+			<Machine enabled="no">Hyper-V VM</Machine>
+			<Machine enabled="no">Parallels VM</Machine>
+			<Machine enabled="no">Virtual Box VM</Machine>
+			<Machine enabled="no">VMware VM</Machine>
+		</MachineDrivers>
+	</Compatibility>
+	<Features></Features>
+	<Packages></Packages>
+	<Commands>
+		<PostUpdates>
+			<!--<Command>example [MOUNTDIR]\Windows parameters</Command>-->
+		</PostUpdates>
+	</Commands>
+	<Drivers showHidden="true"></Drivers>
+	<Unattended mode="0">
+		<OEMSetupComplete>false</OEMSetupComplete>
+		<AnswerFileLocationPanther>false</AnswerFileLocationPanther>
+		<AnswerFileLocationBoot>false</AnswerFileLocationBoot>
+		<SaveBothArch>false</SaveBothArch>
+		<EditionPrompt>false</EditionPrompt>
+		<settings pass="windowsPE">
+			<component name="Microsoft-Windows-Setup">
+				<DynamicUpdate>
+					<WillShowUI>OnError</WillShowUI>
+				</DynamicUpdate>
+				<ImageInstall>
+					<OSImage>
+						<WillShowUI>OnError</WillShowUI>
+						<InstallFrom>
+							<MetaData>
+								<Key>/IMAGE/INDEX</Key>
+								<Value>1</Value>
+							</MetaData>
+						</InstallFrom>
+					</OSImage>
+				</ImageInstall>
+				<UserData>
+					<ProductKey>
+						<Key></Key>
+					</ProductKey>
+				</UserData>
+			</component>
+		</settings>
+	</Unattended>
+	<Tweaks>
+		<Settings>
+			<TweakGroup name="Explorer">
+				<Tweak name="Advanced\HideDrivesWithNoMedia">1</Tweak>
+				<Tweak name="Advanced\Hidden">2</Tweak>
+				<Tweak name="Advanced\ShowSuperHidden">0</Tweak>
+			</TweakGroup>
+		</Settings>
+		<Services></Services>
+		<ExtraServices></ExtraServices>
+		<ScheduledTasks></ScheduledTasks>
+	</Tweaks>
+	<ApplyOptions>
+		<ImageTasks>
+			<Task>imageSaveRebuild</Task>
+			<Task>imageFormatEsd</Task>
+			<Task>imageOptionsCreateIso</Task>
+		</ImageTasks>
+		<AutoIsoFile>D:\clean\PROJECTZEROV3_PRO_WORKING.iso</AutoIsoFile>
+		<AutoIsoLabel>openspacetm</AutoIsoLabel>
+		<AutoSplitSize>4000</AutoSplitSize>
+		<CleanHotfixedLeftovers>0</CleanHotfixedLeftovers>
+		<ReuseDriverCache>false</ReuseDriverCache>
+	</ApplyOptions>
+	<Execution>
+		<Remove>
+			<Item type="File">
+				<PathOriginal>D:\GOED WERKEND\projectzerocleanandprivacy_ver2\sources\$OEM$\$$\Setup\Files\Waterfox.G4.1.3.1.Setup.exe</PathOriginal>
+				<ParamsOriginal></ParamsOriginal>
+				<IndexOriginal>0</IndexOriginal>
+			</Item>
+		</Remove>
+		<Change></Change>
+		<Add></Add>
+	</Execution>
+	<Registry></Registry>
+</Preset>
