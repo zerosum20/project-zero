@@ -34,7 +34,7 @@ thanks for downloading windows project zero iso
 the installation may take longer than usual please be patient!.
 all settings are in the settings tab and not on the taskbar!
 no  browser so you need a second usb or another way of installing a browser!
-anti virus!
+no anti virus!
 this is not a cracked/pre activated version of windows!
 
 warning: 
