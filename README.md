@@ -1,5 +1,7 @@
 # project-zero
 a custom windows version based on privacy and minimalism
+max install size: 18gb
+iso size: 3-8 gb
 
 
 READ THIS!
